@@ -1,0 +1,489 @@
+{
+  "arAndroidUrl": "",
+  "arIosUrl": "",
+  "arUrl": "",
+  "availableForPickup": false,
+  "baseOptions": [
+    {
+      "options": [
+        {
+          "code": "23KCSPETKM020009",
+          "discountedPrice": {
+            "currencyIso": "TRY",
+            "formattedValue": "0,00 TL",
+            "priceType": "BUY",
+            "value": 0
+          },
+          "maxOrderQuantity": 5,
+          "priceData": { "currencyIso": "TRY", "value": 399.99 },
+          "stock": { "isValueRounded": false, "stockLevel": 25 },
+          "url": "/cassiope-yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek-p-23kcspetkm020009",
+          "variantOptionQualifiers": [
+            {
+              "code": "ZZRNK_0032",
+              "image": {
+                "format": "30Wx30H",
+                "url": "https://cdn05.e-bebek.com/mnresize/30/30/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_01.jpg"
+              },
+              "name": "Color",
+              "qualifier": "color",
+              "value": "Mavi"
+            },
+            {
+              "code": "ZZBDN_YAS_0003",
+              "name": "Size",
+              "qualifier": "size",
+              "value": "3 Ay"
+            }
+          ]
+        },
+        {
+          "code": "23KCSPETKM020010",
+          "discountedPrice": {
+            "currencyIso": "TRY",
+            "formattedValue": "0,00 TL",
+            "priceType": "BUY",
+            "value": 0
+          },
+          "maxOrderQuantity": 5,
+          "priceData": { "currencyIso": "TRY", "value": 399.99 },
+          "stock": { "isValueRounded": false, "stockLevel": 35 },
+          "url": "/cassiope-yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek-p-23kcspetkm020010",
+          "variantOptionQualifiers": [
+            {
+              "code": "ZZRNK_0032",
+              "image": {
+                "format": "30Wx30H",
+                "url": "https://cdn05.e-bebek.com/mnresize/30/30/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_01.jpg"
+              },
+              "name": "Color",
+              "qualifier": "color",
+              "value": "Mavi"
+            },
+            {
+              "code": "ZZBDN_YAS_0004",
+              "name": "Size",
+              "qualifier": "size",
+              "value": "6 Ay"
+            }
+          ]
+        },
+        {
+          "code": "23KCSPETKM020011",
+          "discountedPrice": {
+            "currencyIso": "TRY",
+            "formattedValue": "0,00 TL",
+            "priceType": "BUY",
+            "value": 0
+          },
+          "maxOrderQuantity": 5,
+          "priceData": { "currencyIso": "TRY", "value": 399.99 },
+          "stock": { "isValueRounded": false, "stockLevel": 32 },
+          "url": "/cassiope-yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek-p-23kcspetkm020011",
+          "variantOptionQualifiers": [
+            {
+              "code": "ZZRNK_0032",
+              "image": {
+                "format": "30Wx30H",
+                "url": "https://cdn05.e-bebek.com/mnresize/30/30/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_01.jpg"
+              },
+              "name": "Color",
+              "qualifier": "color",
+              "value": "Mavi"
+            },
+            {
+              "code": "ZZBDN_YAS_0005",
+              "name": "Size",
+              "qualifier": "size",
+              "value": "9 Ay"
+            }
+          ]
+        },
+        {
+          "code": "23KCSPETKM020012",
+          "discountedPrice": {
+            "currencyIso": "TRY",
+            "formattedValue": "0,00 TL",
+            "priceType": "BUY",
+            "value": 0
+          },
+          "maxOrderQuantity": 5,
+          "priceData": { "currencyIso": "TRY", "value": 399.99 },
+          "stock": { "isValueRounded": false, "stockLevel": 14 },
+          "url": "/cassiope-yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek-p-23kcspetkm020012",
+          "variantOptionQualifiers": [
+            {
+              "code": "ZZRNK_0032",
+              "image": {
+                "format": "30Wx30H",
+                "url": "https://cdn05.e-bebek.com/mnresize/30/30/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_01.jpg"
+              },
+              "name": "Color",
+              "qualifier": "color",
+              "value": "Mavi"
+            },
+            {
+              "code": "ZZBDN_YAS_0006",
+              "name": "Size",
+              "qualifier": "size",
+              "value": "1 Yaş"
+            }
+          ]
+        }
+      ],
+      "selected": {
+        "code": "23KCSPETKM020009",
+        "discountedPrice": {
+          "currencyIso": "TRY",
+          "formattedValue": "0,00 TL",
+          "priceType": "BUY",
+          "value": 0
+        },
+        "maxOrderQuantity": 5,
+        "priceData": { "currencyIso": "TRY", "value": 399.99 },
+        "stock": { "isValueRounded": false, "stockLevel": 25 },
+        "url": "/cassiope-yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek-p-23kcspetkm020009",
+        "variantOptionQualifiers": [
+          {
+            "code": "ZZRNK_0032",
+            "image": {
+              "format": "30Wx30H",
+              "url": "https://cdn05.e-bebek.com/mnresize/30/30/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_01.jpg"
+            },
+            "name": "Color",
+            "qualifier": "color",
+            "value": "Mavi"
+          },
+          {
+            "code": "ZZBDN_YAS_0003",
+            "name": "Size",
+            "qualifier": "size",
+            "value": "3 Ay"
+          }
+        ]
+      },
+      "variantType": "EbebekSizeVariantProduct"
+    },
+    {
+      "options": [
+        {
+          "code": "23KCSPETKM0200006",
+          "maxOrderQuantity": 5,
+          "stock": { "isValueRounded": false, "stockLevel": 0 },
+          "url": "/cassiope-yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek-p-23kcspetkm0200006",
+          "variantOptionQualifiers": [
+            {
+              "code": "ZZRNK_0006",
+              "image": {
+                "format": "30Wx30H",
+                "url": "https://cdn05.e-bebek.com/mnresize/30/30/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478105_01.jpg"
+              },
+              "name": "Color",
+              "qualifier": "color",
+              "value": "Bej"
+            }
+          ]
+        },
+        {
+          "code": "23KCSPETKM0200020",
+          "maxOrderQuantity": 5,
+          "stock": { "isValueRounded": false, "stockLevel": 0 },
+          "url": "/cassiope-yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek-p-23kcspetkm0200020",
+          "variantOptionQualifiers": [
+            {
+              "code": "ZZRNK_0020",
+              "image": {
+                "format": "30Wx30H",
+                "url": "https://cdn05.e-bebek.com/mnresize/30/30/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478143_01.jpg"
+              },
+              "name": "Color",
+              "qualifier": "color",
+              "value": "Kahverengi"
+            }
+          ]
+        },
+        {
+          "code": "23KCSPETKM0200032",
+          "maxOrderQuantity": 5,
+          "stock": { "isValueRounded": false, "stockLevel": 0 },
+          "url": "/cassiope-yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek-p-23kcspetkm0200032",
+          "variantOptionQualifiers": [
+            {
+              "code": "ZZRNK_0032",
+              "image": {
+                "format": "30Wx30H",
+                "url": "https://cdn05.e-bebek.com/mnresize/30/30/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_01.jpg"
+              },
+              "name": "Color",
+              "qualifier": "color",
+              "value": "Mavi"
+            }
+          ]
+        }
+      ],
+      "selected": {
+        "code": "23KCSPETKM0200032",
+        "maxOrderQuantity": 5,
+        "stock": { "isValueRounded": false, "stockLevel": 0 },
+        "url": "/cassiope-yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek-p-23kcspetkm0200032",
+        "variantOptionQualifiers": [
+          {
+            "code": "ZZRNK_0032",
+            "image": {
+              "format": "30Wx30H",
+              "url": "https://cdn05.e-bebek.com/mnresize/30/30/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_01.jpg"
+            },
+            "name": "Color",
+            "qualifier": "color",
+            "value": "Mavi"
+          }
+        ]
+      },
+      "variantType": "EbebekColorVariantProduct"
+    }
+  ],
+  "baseProduct": "23KCSPETKM0200032",
+  "bestSellerProduct": false,
+  "brandId": "6022",
+  "brandName": "Cassiope",
+  "brandUrl": "/cassiope-b6022",
+  "categories": [
+    { "code": "3741", "name": "Giyim & Tekstil" },
+    { "code": "4050", "name": "Bebek Giyim" },
+    { "code": "4146", "name": "Bebek Salopet" }
+  ],
+  "code": "23KCSPETKM020009",
+  "configurable": false,
+  "description": "<li><strong>Ürün Grubu: </strong>Bebek Salopet</li><li><strong>Yaka Tipi: </strong>Hakim Yaka</li><li><strong>Kol Tipi: </strong>Uzun Kol</li><li><strong>Paça Tipi: </strong>Patiksiz</li><li><strong>Sezon: </strong>Sonbahar-Kış</li><li><strong>Kullanım Tipi: </strong>Günlük Kullanım</li><li><strong>Kalıp: </strong>Normal Kalıp</li><li><strong>Kumaş: </strong> %100 Pamuk</li><li>Yumuşak kumaş dokusu ve rahat kalıba sahiptir.</li><li>30 derecede yıkanabilir.</li>",
+  "discountRate": 0,
+  "discountedPrice": {
+    "currencyIso": "TRY",
+    "formattedValue": "0,00 TL",
+    "priceType": "BUY",
+    "value": 0
+  },
+  "estimatedShipmentDate": {
+    "earliestShippedInMilliSec": 1691614800000,
+    "latestShippedInMilliSec": 1691874000000,
+    "shippedInDaysFormattedMessage": "1 saat 26 dakika içinde sipariş verirsen bugün kargoda"
+  },
+  "freeShipment": false,
+  "genders": [{ "code": "MALE", "name": "Erkek Bebek" }],
+  "groupId": "23KCSPETKM020",
+  "hasOwnPackage": false,
+  "images": [
+    {
+      "format": "superZoom",
+      "imageType": "PRIMARY",
+      "url": "https://cdn05.e-bebek.com/mnresize/1600/1600/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_01.jpg"
+    },
+    {
+      "format": "zoom",
+      "imageType": "PRIMARY",
+      "url": "https://cdn05.e-bebek.com/mnresize/1600/1600/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_01.jpg"
+    },
+    {
+      "format": "product",
+      "imageType": "PRIMARY",
+      "url": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_01.jpg"
+    },
+    {
+      "format": "thumbnail",
+      "imageType": "PRIMARY",
+      "url": "https://cdn05.e-bebek.com/mnresize/96/96/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_01.jpg"
+    },
+    {
+      "format": "superZoom",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/1600/1600/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_01.jpg"
+    },
+    {
+      "format": "zoom",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/1600/1600/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_01.jpg"
+    },
+    {
+      "format": "product",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_01.jpg"
+    },
+    {
+      "format": "thumbnail",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/96/96/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_01.jpg"
+    },
+    {
+      "format": "superZoom",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/1600/1600/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_02.jpg"
+    },
+    {
+      "format": "zoom",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/1600/1600/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_02.jpg"
+    },
+    {
+      "format": "product",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_02.jpg"
+    },
+    {
+      "format": "thumbnail",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/96/96/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_02.jpg"
+    },
+    {
+      "format": "superZoom",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/1600/1600/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_03.jpg"
+    },
+    {
+      "format": "zoom",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/1600/1600/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_03.jpg"
+    },
+    {
+      "format": "product",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_03.jpg"
+    },
+    {
+      "format": "thumbnail",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/96/96/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_03.jpg"
+    },
+    {
+      "format": "superZoom",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/1600/1600/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_04.jpg"
+    },
+    {
+      "format": "zoom",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/1600/1600/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_04.jpg"
+    },
+    {
+      "format": "product",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_04.jpg"
+    },
+    {
+      "format": "thumbnail",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/96/96/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_04.jpg"
+    },
+    {
+      "format": "superZoom",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/1600/1600/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_05.jpg"
+    },
+    {
+      "format": "zoom",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/1600/1600/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_05.jpg"
+    },
+    {
+      "format": "product",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_05.jpg"
+    },
+    {
+      "format": "thumbnail",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/96/96/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_05.jpg"
+    },
+    {
+      "format": "superZoom",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/1600/1600/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_06.jpg"
+    },
+    {
+      "format": "zoom",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/1600/1600/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_06.jpg"
+    },
+    {
+      "format": "product",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_06.jpg"
+    },
+    {
+      "format": "thumbnail",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/96/96/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_06.jpg"
+    },
+    {
+      "format": "superZoom",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/1600/1600/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_07.jpg"
+    },
+    {
+      "format": "zoom",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/1600/1600/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_07.jpg"
+    },
+    {
+      "format": "product",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_07.jpg"
+    },
+    {
+      "format": "thumbnail",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/96/96/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_07.jpg"
+    },
+    {
+      "format": "superZoom",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/1600/1600/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_08.jpg"
+    },
+    {
+      "format": "zoom",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/1600/1600/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_08.jpg"
+    },
+    {
+      "format": "product",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_08.jpg"
+    },
+    {
+      "format": "thumbnail",
+      "imageType": "GALLERY",
+      "url": "https://cdn05.e-bebek.com/mnresize/96/96/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_08.jpg"
+    }
+  ],
+  "installmentDescription": "<p>Bilgilendirme</p><ul><li><p>Belirtilen taksitler bireysel kredi kartlarıyla yapılacak alışverişlerde geçerlidir.</p></li><li><p>Anlaşmalı bankalardaki taksit sayılarını ve ödeme türlerini görmek için <a href=\"/odeme-secenekleri\">tıklayın.</a>&nbsp;</p></li><li><p>Taksit sayılarında ebebek&apos;in tek taraflı değişiklik yapma hakkı saklıdır.</p></li></ul>",
+  "internetProduct": false,
+  "isArActive": false,
+  "maxOrderQuantity": 5,
+  "metaDescription": "Cassiope Yenidoğan Ottoman Salopet-Müslin Gömlek Erkek Bebek uygun fiyatla ebebek.com'da. Hemen keşfedin.",
+  "metaTitle": "Cassiope Yenidoğan Ottoman Salopet-Müslin Gömlek Erkek Bebek uygun fiyatla ebebek.com'da. Hemen keşfedin.",
+  "multidimensional": false,
+  "name": "Yenidoğan Ottoman Salopet-Müslin Gömlek Erkek Bebek",
+  "newProduct": false,
+  "numberOfReviews": 0,
+  "openGraphImage": "https://cdn05.e-bebek.com/mnresize/1200/1200/media/p/yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek_8682766478181_01.jpg",
+  "origin": "Türkiye",
+  "price": {
+    "currencyIso": "TRY",
+    "formattedValue": "399,99 TL",
+    "priceType": "BUY",
+    "value": 399.99
+  },
+  "priceRange": {
+    "maxPrice": { "currencyIso": "TRY", "value": 399.99 },
+    "minPrice": { "currencyIso": "TRY", "value": 399.99 }
+  },
+  "purchasable": true,
+  "sameDayShipment": true,
+  "starProduct": false,
+  "stock": {
+    "isValueRounded": false,
+    "stockLevel": 25,
+    "stockLevelStatus": "inStock"
+  },
+  "suitableForInstallment": true,
+  "summary": "Cassiope Yenidoğan Ottoman S, Mavi, 3 Ay",
+  "url": "/cassiope-yenidogan-ottoman-salopet-muslin-gomlek-erkek-bebek-p-23kcspetkm020009"
+}

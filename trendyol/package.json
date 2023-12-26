@@ -1,0 +1,30 @@
+{
+  "name": "perlamoda-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adeebaboud/perlamoda-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adeebaboud/perlamoda-node/issues"
+  },
+  "homepage": "https://github.com/adeebaboud/perlamoda-node#readme",
+  "dependencies": {
+    "@json2csv/plainjs": "^6.1.3",
+    "axios": "^0.21.0",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.2",
+    "json-as-xlsx": "^2.5.3",
+    "objects-to-csv": "^1.3.6",
+    "puppeteer": "^19.4.0",
+    "request": "^2.88.2"
+  }
+}
