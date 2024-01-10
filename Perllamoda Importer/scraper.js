@@ -2,6 +2,7 @@ const axios = require("axios");
 let cheerio = require("cheerio");
 const url = "https://www.trendyol.com/erkek+ceket";
 const baseURL = "https://www.trendyol.com";
+const fs = require("fs")
 if (typeof cheerio != "function") cheerio = require("cheerio").default;
 
 async function getProduct(prodURL, link) {
@@ -11,7 +12,6 @@ async function getProduct(prodURL, link) {
         Cookie: "LegalRequirementConfirmed=confirmed",
       },
     });
-    console.log(prodURL);
     const productsDetails = [];
     const html = response.data;
     const $ = cheerio.load(html);
@@ -30,7 +30,7 @@ async function getProduct(prodURL, link) {
       orjprice = price;
     }
     //......
-    let description = "";
+
     const Variants = $('script:contains("allVariants")').html();
     const VariantsTag = Variants.match(/"allVariants":\[(.*?)\]/i)[1];
     const VariantsTagJson = "[" + VariantsTag + "]";
@@ -54,7 +54,6 @@ async function getProduct(prodURL, link) {
         sizes.push(elm["value"]);
       }
     });
-    description = "";
 
     const propiteam = cheerio(".prop-item", html).text();
     const PID = $('script:contains("productGroup")').html();
@@ -66,8 +65,31 @@ async function getProduct(prodURL, link) {
 
     const productsAttrebuites = await axios.get(
       "https://public.trendyol.com/discovery-web-productgw-service/api/productGroup/" +
-        value
+      value
     );
+    let description = "";
+
+    const scriptTag = $('script:contains("window.__PRODUCT_DETAIL_APP_INITIAL_STATE__")').html();
+    // console.log(scriptTag.split("window.__PRODUCT_DETAIL_APP_INITIAL_STATE__=")[1].split("};window.TYPageName")[0])
+    fs.writeFile('data.js', scriptTag.split("window.__PRODUCT_DETAIL_APP_INITIAL_STATE__=")[1].split(";window.TYPageName")[0], (err) => {
+      if (err) {
+        console.error('Error writing to file:', err);
+      } else {
+        console.log('Data has been written to the file successfully.');
+      }
+    });
+    try {
+      const { data } = await axios.get(`https://public.trendyol.com/discovery-pdp-websfxcomponentread-santral/${script.sku}`);
+      const conditions = ["Modelin", "Manken", "kilo", "boy", "Kg", "Model", "Taban", "Materiel", "Materyal", "Kilo", "Beden", "Renk", "renk", "beden", "manken", "model", "unusex"]
+      if (data) {
+        if (data.result.descriptions.length > 0 && conditions.some(el => data.result.descriptions[data.result.descriptions.length - 1].text.includes(el))) {
+          description = data.result.descriptions[data.result.descriptions.length - 1].text
+        }
+      }
+    } catch (error) {
+      console.log(error)
+    }
+
     if (productsAttrebuites.data.result.slicingAttributes[0]) {
       color = productsAttrebuites.data.result.slicingAttributes[0].attributes;
       $(color).each(function (i, elm) {
@@ -119,6 +141,7 @@ async function getProductsData(link, urls = []) {
 
       urls.push(productUrl);
     });
+    return await getProduct(urls[0], link)
     return Promise.all(urls.map((url) => getProduct(url, link)));
   } catch (error) {
     console.error(error);
@@ -127,3 +150,5 @@ async function getProductsData(link, urls = []) {
 module.exports = {
   getProductsData,
 };
+
+

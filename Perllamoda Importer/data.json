@@ -1,0 +1,2392 @@
+{
+  "product": {
+    "attributes": [
+      {
+        "key": { "name": "Kumaş Tipi", "id": 200 },
+        "value": { "name": "Kumaş", "id": 22131 },
+        "starred": true,
+        "description": "",
+        "mediaUrls": []
+      },
+      {
+        "key": { "name": "Materyal", "id": 14 },
+        "value": { "name": "Pamuklu", "id": 681 },
+        "starred": true,
+        "description": "",
+        "mediaUrls": []
+      },
+      {
+        "key": { "name": "Kumaş/İplik Özellik", "id": 634 },
+        "value": { "name": "Pamuk", "id": 902451 },
+        "starred": true,
+        "description": "",
+        "mediaUrls": []
+      },
+      {
+        "key": { "name": "Bel", "id": 1 },
+        "value": { "name": "Yüksek Bel", "id": 4 },
+        "starred": true,
+        "description": "",
+        "mediaUrls": []
+      },
+      {
+        "key": { "name": "Boy / Ölçü", "id": 2 },
+        "value": { "name": "Uzun", "id": 16 },
+        "starred": false,
+        "description": "",
+        "mediaUrls": []
+      },
+      {
+        "key": { "name": "Desen", "id": 33 },
+        "value": { "name": "Düz Renk", "id": 314 },
+        "starred": false,
+        "description": "",
+        "mediaUrls": []
+      },
+      {
+        "key": { "name": "Kalıp", "id": 179 },
+        "value": { "name": "Büyük Beden", "id": 2860 },
+        "starred": false,
+        "description": "",
+        "mediaUrls": []
+      },
+      {
+        "key": { "name": "Kullanım Alanı", "id": 196 },
+        "value": { "name": "Günlük", "id": 3981 },
+        "starred": false,
+        "description": "",
+        "mediaUrls": []
+      },
+      {
+        "key": { "name": "Stil", "id": 250 },
+        "value": { "name": "Trend", "id": 2433 },
+        "starred": false,
+        "description": "",
+        "mediaUrls": []
+      },
+      {
+        "key": { "name": "Renk", "id": 348 },
+        "value": { "name": "Siyah", "id": 14 },
+        "starred": false,
+        "description": "",
+        "mediaUrls": []
+      },
+      {
+        "key": { "name": "Sürdürülebilirlik Detayı", "id": 892 },
+        "value": { "name": "Hayır", "id": 1178088 },
+        "starred": false,
+        "description": "",
+        "mediaUrls": []
+      },
+      {
+        "key": { "name": "Dokuma Tipi", "id": 117 },
+        "value": { "name": "%100 Pamuk", "id": 1178341 },
+        "starred": false,
+        "description": "",
+        "mediaUrls": []
+      },
+      {
+        "key": { "name": "Boy", "id": 48 },
+        "value": { "name": "Standart", "id": 997239 },
+        "starred": false,
+        "description": "",
+        "mediaUrls": []
+      },
+      {
+        "key": { "name": "Persona", "id": 870 },
+        "value": { "name": "None Persona", "id": 1178763 },
+        "starred": false,
+        "description": "",
+        "mediaUrls": []
+      },
+      {
+        "key": { "name": "Ortam", "id": 881 },
+        "value": { "name": "Günlük", "id": 1178157 },
+        "starred": false,
+        "description": "",
+        "mediaUrls": []
+      },
+      {
+        "key": { "name": "Ek Özellik", "id": 124 },
+        "value": { "name": "Toparlayıcı", "id": 1178476 },
+        "starred": false,
+        "description": "",
+        "mediaUrls": []
+      },
+      {
+        "key": { "name": "Deri Kalitesi", "id": 896 },
+        "value": { "name": "Parça Mevcut Değil", "id": 1178755 },
+        "starred": false,
+        "description": "",
+        "mediaUrls": []
+      },
+      {
+        "key": { "name": "Baskı/Nakış Tekniği", "id": 891 },
+        "value": { "name": "Baskısız", "id": 1178753 },
+        "starred": false,
+        "description": "",
+        "mediaUrls": []
+      },
+      {
+        "key": { "name": "Siluet", "id": 880 },
+        "value": { "name": "Straight", "id": 998336 },
+        "starred": false,
+        "description": "",
+        "mediaUrls": []
+      },
+      {
+        "key": { "name": "Paça Tipi", "id": 17 },
+        "value": { "name": "Dar Paça", "id": 121 },
+        "starred": false,
+        "description": "",
+        "mediaUrls": []
+      },
+      {
+        "key": { "name": "Koleksiyon", "id": 710 },
+        "value": { "name": "Basic", "id": 259552 },
+        "starred": false,
+        "description": "",
+        "mediaUrls": []
+      },
+      {
+        "key": { "name": "Paket İçeriği", "id": 66 },
+        "value": { "name": "Tekli", "id": 1400 },
+        "starred": false,
+        "description": "",
+        "mediaUrls": []
+      },
+      {
+        "key": { "name": "Yaş", "id": 279 },
+        "value": { "name": "21 - 40 Yaş", "id": 1209637 },
+        "starred": false,
+        "description": "",
+        "mediaUrls": []
+      }
+    ],
+    "selectedVasAttributes": [],
+    "alternativeVariants": [],
+    "variants": [
+      {
+        "attributeId": 338,
+        "attributeName": "Beden",
+        "attributeType": "Size",
+        "attributeValue": "M",
+        "stamps": [],
+        "price": {
+          "profitMargin": 0,
+          "discountedPrice": { "text": "89,99 TL", "value": 89.99 },
+          "sellingPrice": { "text": "89,99 TL", "value": 89.99 },
+          "originalPrice": { "text": "89,99 TL", "value": 89.99 },
+          "currency": "TRY"
+        },
+        "fulfilmentType": "mp",
+        "attributeBeautifiedValue": "m",
+        "isWinner": true,
+        "listingId": "649e1ae779c4758262c0e170b635d33c",
+        "stock": null,
+        "sellable": true,
+        "availableForClaim": true,
+        "barcode": "SYHTYT-M-",
+        "itemNumber": 496878047,
+        "discountedPriceInfo": "",
+        "hasCollectable": false,
+        "unitInfo": { "unitPrice": false, "unitPriceText": false },
+        "rushDeliveryMerchantListingExist": false,
+        "lowerPriceMerchantListingExist": false,
+        "fastDeliveryOptions": [
+          {
+            "type": "TOMORROW_SHIPPING",
+            "dailyCutoffHour": "00:00",
+            "deliveryTimeZone": "Europe/Istanbul",
+            "cutOffCountDown": {
+              "years": 0,
+              "months": 0,
+              "days": 0,
+              "hours": 6,
+              "minutes": 42,
+              "seconds": 46
+            }
+          }
+        ],
+        "groupTagIds": []
+      }
+    ],
+    "otherMerchants": [
+      {
+        "url": "/fit-fit-tayt/ekstra-yuksek-bel-genis-kemer-toparlayici-sikilastirici-siyah-celik-tayt-p-60061732?boutiqueId=61&merchantId=883070",
+        "reviewsUrl": "/fit-fit-tayt/ekstra-yuksek-bel-genis-kemer-toparlayici-sikilastirici-siyah-celik-tayt-p-60061732/yorumlar",
+        "questionsUrl": "/fit-fit-tayt/ekstra-yuksek-bel-genis-kemer-toparlayici-sikilastirici-siyah-celik-tayt-p-60061732/saticiya-sor?merchantId=883070",
+        "promotions": [],
+        "discountedPriceInfo": "",
+        "isSellable": true,
+        "isBasketDiscount": false,
+        "hasStock": true,
+        "price": {
+          "profitMargin": 0,
+          "discountedPrice": { "text": "118 TL", "value": 118 },
+          "sellingPrice": { "text": "118 TL", "value": 118 },
+          "originalPrice": { "text": "118 TL", "value": 118 },
+          "currency": "TRY"
+        },
+        "isFreeCargo": false,
+        "isLongTermDelivery": false,
+        "merchant": {
+          "isSearchableMerchant": true,
+          "stickers": [],
+          "merchantBadges": [
+            {
+              "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+              "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+              "type": "BADGE"
+            }
+          ],
+          "merchantMarkers": [],
+          "id": 883070,
+          "name": "TİMBA",
+          "officialName": "YUSUF BAYRAM",
+          "cityName": "Bursa",
+          "registeredEmailAddress": "yusuf.bayram.4@hs01.kep.tr",
+          "taxNumber": "1580710543",
+          "sellerScore": 8.8,
+          "sellerScoreColor": "08B449",
+          "deliveryProviderName": "TİMBA",
+          "corporateInvoiceApplicable": true,
+          "locationBasedSales": false
+        },
+        "deliveryInformation": {
+          "isRushDelivery": true,
+          "deliveryDate": "11 - 15 Ocak",
+          "fastDeliveryOptions": [
+            {
+              "type": "TOMORROW_SHIPPING",
+              "dailyCutoffHour": "00:00",
+              "deliveryTimeZone": "Europe/Istanbul",
+              "cutOffCountDown": {
+                "years": 0,
+                "months": 0,
+                "days": 0,
+                "hours": 6,
+                "minutes": 42,
+                "seconds": 46
+              }
+            }
+          ]
+        },
+        "cargoRemainingDays": 1,
+        "isBlacklist": false
+      },
+      {
+        "url": "/fit-fit-tayt/ekstra-yuksek-bel-genis-kemer-toparlayici-sikilastirici-siyah-celik-tayt-p-60061732?boutiqueId=61&merchantId=908034",
+        "reviewsUrl": "/fit-fit-tayt/ekstra-yuksek-bel-genis-kemer-toparlayici-sikilastirici-siyah-celik-tayt-p-60061732/yorumlar",
+        "questionsUrl": "/fit-fit-tayt/ekstra-yuksek-bel-genis-kemer-toparlayici-sikilastirici-siyah-celik-tayt-p-60061732/saticiya-sor?merchantId=908034",
+        "promotions": [],
+        "discountedPriceInfo": "",
+        "isSellable": true,
+        "isBasketDiscount": false,
+        "hasStock": true,
+        "price": {
+          "profitMargin": 0,
+          "discountedPrice": { "text": "118 TL", "value": 118 },
+          "sellingPrice": { "text": "118 TL", "value": 118 },
+          "originalPrice": { "text": "118 TL", "value": 118 },
+          "currency": "TRY"
+        },
+        "isFreeCargo": false,
+        "isLongTermDelivery": false,
+        "merchant": {
+          "isSearchableMerchant": true,
+          "stickers": [],
+          "merchantBadges": [],
+          "merchantMarkers": [],
+          "id": 908034,
+          "name": "Serdilek giyim",
+          "officialName": "SERKAN KIZMAZER",
+          "cityName": "İstanbul",
+          "registeredEmailAddress": "serkan.kizmazer@hs01.kep.tr",
+          "taxNumber": "5620578396",
+          "sellerScore": 8.3,
+          "sellerScoreColor": "3CCD7D",
+          "deliveryProviderName": "Serdilek giyim",
+          "corporateInvoiceApplicable": true,
+          "locationBasedSales": false
+        },
+        "deliveryInformation": {
+          "isRushDelivery": false,
+          "deliveryDate": "10 - 16 Ocak",
+          "fastDeliveryOptions": []
+        },
+        "cargoRemainingDays": 2,
+        "isBlacklist": false
+      },
+      {
+        "url": "/fit-fit-tayt/ekstra-yuksek-bel-genis-kemer-toparlayici-sikilastirici-siyah-celik-tayt-p-60061732?boutiqueId=61&merchantId=247872",
+        "reviewsUrl": "/fit-fit-tayt/ekstra-yuksek-bel-genis-kemer-toparlayici-sikilastirici-siyah-celik-tayt-p-60061732/yorumlar",
+        "questionsUrl": "/fit-fit-tayt/ekstra-yuksek-bel-genis-kemer-toparlayici-sikilastirici-siyah-celik-tayt-p-60061732/saticiya-sor?merchantId=247872",
+        "promotions": [],
+        "discountedPriceInfo": "",
+        "isSellable": true,
+        "isBasketDiscount": false,
+        "hasStock": true,
+        "price": {
+          "profitMargin": 0,
+          "discountedPrice": { "text": "130 TL", "value": 130 },
+          "sellingPrice": { "text": "130 TL", "value": 130 },
+          "originalPrice": { "text": "130 TL", "value": 130 },
+          "currency": "TRY"
+        },
+        "isFreeCargo": false,
+        "isLongTermDelivery": false,
+        "merchant": {
+          "isSearchableMerchant": true,
+          "stickers": [],
+          "merchantBadges": [
+            {
+              "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+              "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+              "type": "BADGE"
+            }
+          ],
+          "merchantMarkers": [],
+          "id": 247872,
+          "name": "angelstayl",
+          "officialName": "ALİ ÖLÇÜM",
+          "cityName": "İstanbul",
+          "registeredEmailAddress": "ali.olcum@hs01.kep.tr",
+          "taxNumber": "6540236239",
+          "sellerScore": 8.2,
+          "sellerScoreColor": "3CCD7D",
+          "deliveryProviderName": "angelstayl",
+          "corporateInvoiceApplicable": true,
+          "locationBasedSales": false,
+          "bulkSalesLimit": 300
+        },
+        "deliveryInformation": {
+          "isRushDelivery": true,
+          "deliveryDate": "11 - 15 Ocak",
+          "fastDeliveryOptions": [
+            {
+              "type": "TOMORROW_SHIPPING",
+              "dailyCutoffHour": "00:00",
+              "deliveryTimeZone": "Europe/Istanbul",
+              "cutOffCountDown": {
+                "years": 0,
+                "months": 0,
+                "days": 0,
+                "hours": 6,
+                "minutes": 42,
+                "seconds": 46
+              }
+            }
+          ]
+        },
+        "cargoRemainingDays": 1,
+        "isBlacklist": false
+      },
+      {
+        "url": "/fit-fit-tayt/ekstra-yuksek-bel-genis-kemer-toparlayici-sikilastirici-siyah-celik-tayt-p-60061732?boutiqueId=61&merchantId=163242",
+        "reviewsUrl": "/fit-fit-tayt/ekstra-yuksek-bel-genis-kemer-toparlayici-sikilastirici-siyah-celik-tayt-p-60061732/yorumlar",
+        "questionsUrl": "/fit-fit-tayt/ekstra-yuksek-bel-genis-kemer-toparlayici-sikilastirici-siyah-celik-tayt-p-60061732/saticiya-sor?merchantId=163242",
+        "promotions": [
+          {
+            "promotionRemainingTime": "",
+            "isOnlyAz": false,
+            "isLimitSatisfied": false,
+            "type": 1,
+            "text": "2. Ürüne 10 TL İndirim",
+            "id": 10495524,
+            "promotionDiscountType": "TwoForOne",
+            "link": "/sr?prm=10495524"
+          }
+        ],
+        "discountedPriceInfo": "",
+        "isSellable": true,
+        "isBasketDiscount": false,
+        "hasStock": true,
+        "price": {
+          "profitMargin": 0,
+          "discountedPrice": { "text": "149 TL", "value": 149 },
+          "sellingPrice": { "text": "149 TL", "value": 149 },
+          "originalPrice": { "text": "149 TL", "value": 149 },
+          "currency": "TRY"
+        },
+        "isFreeCargo": false,
+        "isLongTermDelivery": false,
+        "merchant": {
+          "isSearchableMerchant": true,
+          "stickers": [],
+          "merchantBadges": [
+            {
+              "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+              "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+              "type": "BADGE"
+            }
+          ],
+          "merchantMarkers": [],
+          "id": 163242,
+          "name": "VANSCHENDEL",
+          "officialName": "CANDAN TOKGÖZ",
+          "cityName": "İstanbul",
+          "centralRegistrationSystemNumber": "5341957525600000",
+          "registeredEmailAddress": "candan.tokgoz@hs01.kep.tr",
+          "taxNumber": "8480171320",
+          "sellerScore": 8.9,
+          "sellerScoreColor": "08B449",
+          "deliveryProviderName": "VANSCHENDEL",
+          "corporateInvoiceApplicable": true,
+          "locationBasedSales": false
+        },
+        "deliveryInformation": {
+          "isRushDelivery": true,
+          "deliveryDate": "11 - 15 Ocak",
+          "fastDeliveryOptions": [
+            {
+              "type": "TOMORROW_SHIPPING",
+              "dailyCutoffHour": "00:00",
+              "deliveryTimeZone": "Europe/Istanbul",
+              "cutOffCountDown": {
+                "years": 0,
+                "months": 0,
+                "days": 0,
+                "hours": 6,
+                "minutes": 42,
+                "seconds": 46
+              }
+            }
+          ]
+        },
+        "cargoRemainingDays": 1,
+        "isBlacklist": false
+      },
+      {
+        "url": "/fit-fit-tayt/ekstra-yuksek-bel-genis-kemer-toparlayici-sikilastirici-siyah-celik-tayt-p-60061732?boutiqueId=61&merchantId=672804",
+        "reviewsUrl": "/fit-fit-tayt/ekstra-yuksek-bel-genis-kemer-toparlayici-sikilastirici-siyah-celik-tayt-p-60061732/yorumlar",
+        "questionsUrl": "/fit-fit-tayt/ekstra-yuksek-bel-genis-kemer-toparlayici-sikilastirici-siyah-celik-tayt-p-60061732/saticiya-sor?merchantId=672804",
+        "promotions": [
+          {
+            "promotionRemainingTime": "",
+            "isOnlyAz": false,
+            "isLimitSatisfied": false,
+            "type": 1,
+            "text": "2. Ürüne 5 TL İndirim",
+            "id": 10572986,
+            "promotionDiscountType": "TwoForOne",
+            "link": "/sr?prm=10572986"
+          }
+        ],
+        "discountedPriceInfo": "",
+        "isSellable": true,
+        "isBasketDiscount": false,
+        "hasStock": true,
+        "price": {
+          "profitMargin": 0,
+          "discountedPrice": { "text": "149,99 TL", "value": 149.99 },
+          "sellingPrice": { "text": "149,99 TL", "value": 149.99 },
+          "originalPrice": { "text": "149,99 TL", "value": 149.99 },
+          "currency": "TRY"
+        },
+        "isFreeCargo": false,
+        "isLongTermDelivery": false,
+        "merchant": {
+          "isSearchableMerchant": true,
+          "stickers": [],
+          "merchantBadges": [],
+          "merchantMarkers": [],
+          "id": 672804,
+          "name": "SULTAN TİCARET",
+          "officialName": "HATİCE DEMİR",
+          "cityName": "Edirne",
+          "centralRegistrationSystemNumber": "2413668969400001",
+          "registeredEmailAddress": "hatice.demir.11@hs01.kep.tr",
+          "taxNumber": "3720369046",
+          "sellerScore": 8.6,
+          "sellerScoreColor": "08B449",
+          "deliveryProviderName": "SULTAN TİCARET",
+          "corporateInvoiceApplicable": true,
+          "locationBasedSales": false,
+          "bulkSalesLimit": 50
+        },
+        "deliveryInformation": {
+          "isRushDelivery": true,
+          "deliveryDate": "11 - 15 Ocak",
+          "fastDeliveryOptions": [
+            {
+              "type": "TOMORROW_SHIPPING",
+              "dailyCutoffHour": "00:00",
+              "deliveryTimeZone": "Europe/Istanbul",
+              "cutOffCountDown": {
+                "years": 0,
+                "months": 0,
+                "days": 0,
+                "hours": 6,
+                "minutes": 42,
+                "seconds": 46
+              }
+            }
+          ]
+        },
+        "cargoRemainingDays": 1,
+        "isBlacklist": false
+      },
+      {
+        "url": "/fit-fit-tayt/ekstra-yuksek-bel-genis-kemer-toparlayici-sikilastirici-siyah-celik-tayt-p-60061732?boutiqueId=61&merchantId=704349",
+        "reviewsUrl": "/fit-fit-tayt/ekstra-yuksek-bel-genis-kemer-toparlayici-sikilastirici-siyah-celik-tayt-p-60061732/yorumlar",
+        "questionsUrl": "/fit-fit-tayt/ekstra-yuksek-bel-genis-kemer-toparlayici-sikilastirici-siyah-celik-tayt-p-60061732/saticiya-sor?merchantId=704349",
+        "promotions": [],
+        "discountedPriceInfo": "",
+        "isSellable": true,
+        "isBasketDiscount": false,
+        "hasStock": true,
+        "price": {
+          "profitMargin": 0,
+          "discountedPrice": { "text": "149 TL", "value": 149 },
+          "sellingPrice": { "text": "149 TL", "value": 149 },
+          "originalPrice": { "text": "149 TL", "value": 149 },
+          "currency": "TRY"
+        },
+        "isFreeCargo": false,
+        "isLongTermDelivery": false,
+        "merchant": {
+          "isSearchableMerchant": true,
+          "stickers": [],
+          "merchantBadges": [],
+          "merchantMarkers": [],
+          "id": 704349,
+          "name": "RSİ TREND",
+          "officialName": "RECEP BAŞARAN",
+          "cityName": "İstanbul",
+          "centralRegistrationSystemNumber": "",
+          "taxNumber": "1460315854",
+          "sellerScore": 7.7,
+          "sellerScoreColor": "F27A1A",
+          "deliveryProviderName": "RSİ TREND",
+          "corporateInvoiceApplicable": true,
+          "locationBasedSales": false
+        },
+        "deliveryInformation": {
+          "isRushDelivery": false,
+          "deliveryDate": "10 - 17 Ocak",
+          "fastDeliveryOptions": []
+        },
+        "cargoRemainingDays": 2,
+        "isBlacklist": false
+      }
+    ],
+    "campaign": {
+      "id": 61,
+      "name": "Tüm Ürünler",
+      "startDate": "2010-01-01T17:04:05",
+      "endDate": "2061-01-01T18:04:05",
+      "isMultipleSupplied": false,
+      "stockTypeId": 7,
+      "url": "/tum-urunler/butikdetay/61",
+      "showTimer": false
+    },
+    "category": {
+      "id": 108858,
+      "name": "Büyük Beden Tayt",
+      "hierarchy": "Giyim/Büyük Beden/Büyük Beden Tayt",
+      "refundable": true,
+      "beautifiedName": "buyuk-beden-tayt",
+      "isVASEnabled": false
+    },
+    "brand": {
+      "isVirtual": false,
+      "beautifiedName": "fit-fit-tayt",
+      "id": 1013814,
+      "name": "Fit & Fit Tayt",
+      "path": "/fit-fit-tayt-x-b1013814"
+    },
+    "color": "SİYAH",
+    "metaBrand": {
+      "id": 1013814,
+      "name": "Fit & Fit Tayt",
+      "beautifiedName": "",
+      "isVirtual": false,
+      "path": ""
+    },
+    "showVariants": true,
+    "showSexualContent": true,
+    "brandCategoryBanners": [],
+    "allVariants": [
+      {
+        "itemNumber": 496878076,
+        "value": "S",
+        "inStock": true,
+        "currency": "TRY",
+        "barcode": "SYHTYT-S-",
+        "price": 118
+      },
+      {
+        "itemNumber": 496878047,
+        "value": "M",
+        "inStock": true,
+        "currency": "TRY",
+        "barcode": "SYHTYT-M-",
+        "price": 89.99
+      },
+      {
+        "itemNumber": 496861180,
+        "value": "L",
+        "inStock": true,
+        "currency": "TRY",
+        "barcode": "SYHTYT-L-",
+        "price": 89.99
+      },
+      {
+        "itemNumber": 164807500,
+        "value": "XL",
+        "inStock": true,
+        "currency": "TRY",
+        "barcode": "PLSLTBYK000",
+        "price": 89.99
+      },
+      {
+        "itemNumber": 106199888,
+        "value": "2XL",
+        "inStock": true,
+        "currency": "TRY",
+        "barcode": "PLSLTBYK05",
+        "price": 139
+      },
+      {
+        "itemNumber": 106199896,
+        "value": "3XL",
+        "inStock": true,
+        "currency": "TRY",
+        "barcode": "PLSLTBYK06",
+        "price": 118
+      },
+      {
+        "itemNumber": 106193805,
+        "value": "4XL",
+        "inStock": true,
+        "currency": "TRY",
+        "barcode": "PLSLTBYK07",
+        "price": 139.99
+      },
+      {
+        "itemNumber": 106199892,
+        "value": "5XL",
+        "inStock": true,
+        "currency": "TRY",
+        "barcode": "PLSLTBYK08",
+        "price": 155
+      }
+    ],
+    "otherMerchantVariants": [],
+    "token": "",
+    "isThereAnyCorporateInvoiceInOtherMerchants": true,
+    "advertProduct": null,
+    "categoryTopRankings": {
+      "name": "bestSeller",
+      "order": 1,
+      "url": "/sirali-urunler?categoryId=108858&type=bestSeller&webGenderId=1",
+      "text": "en çok satılan"
+    },
+    "isVasEnabled": false,
+    "originalCategory": {
+      "id": 2968,
+      "name": "Büyük Beden Tayt",
+      "hierarchy": "Giyim/Büyük Beden/Büyük Beden Tayt",
+      "refundable": true,
+      "beautifiedName": "buyuk-beden-tayt",
+      "isVASEnabled": false
+    },
+    "landings": [],
+    "id": 60061732,
+    "productCode": "PLUSBYK397",
+    "name": "Ekstra Yüksek Bel Geniş Kemer Toparlayıcı Sıkılaştırıcı Siyah Çelik Tayt",
+    "nameWithProductCode": "Ekstra Yüksek Bel Geniş Kemer Toparlayıcı Sıkılaştırıcı Siyah Çelik Tayt PLUSBYK397",
+    "contentDescriptions": [
+      {
+        "description": "Toparlayıcı esnek bel tayt. Derli toplu bir görünüm sağlar. Elde ve makine yıkaması için uygundur.",
+        "bold": false
+      },
+      {
+        "description": "Bu üründen en fazla 10 adet sipariş verilebilir. 10 adetin üzerindeki siparişleri Trendyol iptal etme hakkını saklı tutar.",
+        "bold": false
+      },
+      {
+        "description": "Kampanya fiyatından satılmak üzere 10 adetten fazla stok sunulmuştur.",
+        "bold": false
+      },
+      {
+        "description": "İncelemiş olduğunuz ürünün satış fiyatını satıcı belirlemektedir.",
+        "bold": false
+      },
+      {
+        "description": "Bu ürün indirim kampanyasına dahil değildir.",
+        "bold": false
+      },
+      {
+        "description": "Bir ürün, birden fazla satıcı tarafından satılabilir. Birden fazla satıcı tarafından satışa sunulan ürünlerin satıcıları ürün için belirledikleri fiyata, satıcı puanlarına, teslimat statülerine, ürünlerdeki promosyonlara, kargonun bedava olup olmamasına ve ürünlerin hızlı teslimat ile teslim edilip edilememesine, ürünlerin stok ve kategorileri bilgilerine göre sıralanmaktadır.",
+        "bold": false
+      }
+    ],
+    "faqs": [],
+    "descriptions": [
+      {
+        "text": "Bu ürün [page=\"merchant_info\"]MCY Butik[/page] tarafından gönderilecektir.",
+        "textComponents": {
+          "pre": "Bu ürün ",
+          "mid": "MCY Butik",
+          "post": " tarafından gönderilecektir."
+        },
+        "viewType": "popover"
+      },
+      {
+        "text": "Kampanya fiyatından satılmak üzere 10 adetten fazla stok sunulmuştur.",
+        "viewType": "inline"
+      },
+      {
+        "text": "İncelemiş olduğunuz ürünün satış fiyatını satıcı belirlemektedir.",
+        "viewType": "inline"
+      },
+      {
+        "text": "Bir ürün, birden fazla satıcı tarafından satılabilir. Birden fazla satıcı tarafından satışa sunulan ürünlerin satıcıları ürün için belirledikleri fiyata, satıcı puanlarına, teslimat statülerine, ürünlerdeki promosyonlara, kargonun bedava olup olmamasına ve ürünlerin hızlı teslimat ile teslim edilip edilememesine, ürünlerin stok ve kategorileri bilgilerine göre sıralanmaktadır.",
+        "viewType": "inline"
+      },
+      {
+        "text": "Bu üründen en fazla 10 adet sipariş verilebilir. 10 adedin üzerindeki siparişleri Trendyol iptal etme hakkını saklı tutar. Belirlenen bu limit kurumsal siparişlerde geçerli olmayıp, kurumsal siparişler için farklı limitler belirlenebilmektedir.",
+        "viewType": "inline"
+      },
+      {
+        "text": "15 gün içinde ücretsiz iade. Detaylı bilgi için [page=\"return_conditions\"]tıklayın[/page].",
+        "textComponents": {
+          "pre": "15 gün içinde ücretsiz iade. Detaylı bilgi için ",
+          "mid": "tıklayın",
+          "post": "."
+        },
+        "viewType": "modal"
+      },
+      {
+        "text": "Toparlayıcı esnek bel tayt. Derli toplu bir görünüm sağlar. Elde ve makine yıkaması için uygundur.",
+        "viewType": "inline"
+      }
+    ],
+    "productGroupId": 51031538,
+    "tax": 10,
+    "businessUnit": "Büyük Beden",
+    "businessUnitId": 43,
+    "maxInstallment": 12,
+    "gender": { "name": "Kadın", "id": 1 },
+    "webGender": { "name": "Kadın", "id": 1 },
+    "url": "/fit-fit-tayt/ekstra-yuksek-bel-genis-kemer-toparlayici-sikilastirici-siyah-celik-tayt-p-60061732",
+    "images": [
+      "/ty1011/product/media/images/prod/SPM/PIM/20231011/11/cd7b022c-1254-3265-b2a0-9fce6c5f95d2/1_org_zoom.jpg",
+      "/ty1011/product/media/images/prod/SPM/PIM/20231011/11/d31bd616-8e49-3e49-942b-542600015435/1_org_zoom.jpg",
+      "/ty1013/product/media/images/prod/SPM/PIM/20231011/11/b2799ac7-d18f-3bed-a6cf-54ba8083290f/1_org_zoom.jpg"
+    ],
+    "isSellable": true,
+    "isBasketDiscount": false,
+    "hasStock": true,
+    "price": {
+      "profitMargin": 0,
+      "discountedPrice": { "text": "89,99 TL", "value": 89.99 },
+      "sellingPrice": { "text": "89,99 TL", "value": 89.99 },
+      "originalPrice": { "text": "89,99 TL", "value": 89.99 },
+      "currency": "TRY"
+    },
+    "isFreeCargo": false,
+    "isLongTermDelivery": false,
+    "promotions": [
+      {
+        "promotionRemainingTime": "",
+        "isOnlyAz": false,
+        "isLimitSatisfied": false,
+        "type": 2,
+        "text": "150 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+        "id": 8481299,
+        "promotionDiscountType": "Cargo",
+        "link": "/sr?prm=8481299"
+      }
+    ],
+    "merchant": {
+      "isSearchableMerchant": true,
+      "stickers": [],
+      "merchantBadges": [
+        {
+          "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+          "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+          "type": "BADGE"
+        }
+      ],
+      "merchantMarkers": [],
+      "id": 532623,
+      "name": "MCY Butik",
+      "officialName": "BÜŞRA YAĞCIOĞLU",
+      "cityName": "İstanbul",
+      "registeredEmailAddress": "busra.yagcioglu@hs01.kep.tr",
+      "taxNumber": "9990370357",
+      "sellerScore": 8.6,
+      "sellerScoreColor": "08B449",
+      "deliveryProviderName": "MCY Butik",
+      "corporateInvoiceApplicable": true,
+      "locationBasedSales": false,
+      "bulkSalesLimit": 300,
+      "sellerLink": "/magaza/mcy-butik-m-532623"
+    },
+    "merchantListings": [
+      {
+        "beta": false,
+        "deliveryStartDate": "2024-01-11T17:17:14",
+        "deliveryEndDate": "2024-01-15T17:17:14",
+        "merchant": {
+          "id": 532623,
+          "name": "MCY Butik",
+          "officialName": "BÜŞRA YAĞCIOĞLU",
+          "cityName": "İstanbul",
+          "registeredEmailAddress": "busra.yagcioglu@hs01.kep.tr",
+          "taxNumber": "9990370357",
+          "sellerScore": 8.6,
+          "sellerScoreColor": "08B449",
+          "districtName": "Esenler",
+          "countryName": "TÜRKİYE",
+          "address": "Mahalle/Semt:NAMIK KEMAL MAH. Cadde/Sokak:32. SK. No:24 İç Kapı No:9",
+          "logoUrl": "https://cdn.dsmcdn.com/seller-store/uploads/532623/8363fe1f-1f86-4e1c-8509-8b0d46ff1d9a.jpg",
+          "stickers": [],
+          "merchantBadges": [
+            {
+              "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+              "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+              "type": "BADGE"
+            }
+          ],
+          "corporateInvoiceApplicable": true,
+          "affiliate": "TRENDYOLTR",
+          "merchantMarkers": [],
+          "componentCodes": [],
+          "locationBasedSales": false,
+          "mpAgreedDTD": true,
+          "mpEstimatedPackageDTD": true,
+          "allMpEstimatedPackageDTD": true,
+          "bulkSalesLimit": 300,
+          "texApplicable": false,
+          "dropShipmentSupplier": false
+        },
+        "campaign": {
+          "id": 61,
+          "name": "Tüm Ürünler",
+          "stockTypeId": 7,
+          "startDate": "2010-01-01T17:04:05",
+          "endDate": "2061-01-01T18:04:05",
+          "tags": [],
+          "isMultipleSupplied": false
+        },
+        "promotions": [
+          {
+            "id": 8481299,
+            "name": "150 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+            "discountType": 7,
+            "promotionDiscountType": "Cargo",
+            "promotionEndDate": "2050-01-01T00:00:00",
+            "promotionRemainingDays": 9487,
+            "promotionRemainingHours": 6,
+            "promotionRemainingMinutes": 42,
+            "isLimitSatisfied": false,
+            "shortName": "Kargo Bedava",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          }
+        ],
+        "crossPromotions": [],
+        "variants": [
+          {
+            "listingId": "649e1ae779c4758262c0e170b635d33c",
+            "fulfilmentType": "mp",
+            "itemNumber": 496878047,
+            "barcode": "SYHTYT-M-",
+            "quantity": 43,
+            "price": {
+              "buyingPrice": 0,
+              "sellingPrice": 89.99,
+              "originalPrice": 89.99,
+              "manipulatedOriginalPrice": 89.99,
+              "discountedPrice": 89.99,
+              "currency": "TRY",
+              "profitMargin": 0
+            },
+            "freeCargo": false,
+            "availableForClaim": true,
+            "discountedPriceInfo": "",
+            "hasCollectable": false,
+            "deci": 1,
+            "rushDeliveryDuration": 24,
+            "variantAttributes": [
+              {
+                "attributeId": 338,
+                "attributeName": "Beden",
+                "attributeValue": "M",
+                "attributeType": "Size"
+              }
+            ],
+            "scores": [
+              { "key": "1", "value": 1000000.6965500603, "campaignId": 61 },
+              { "key": "2", "value": 1000009.1903769999, "campaignId": 61 }
+            ],
+            "maxProductSaleQuantity": 10,
+            "unitInfo": {},
+            "supplementaryServices": [],
+            "groupTagIds": [],
+            "rushDeliveryMerchantListingExist": false,
+            "rushDeliveryMerchantListing": { "exist": false },
+            "lowerPriceMerchantListingExist": false,
+            "hasGroupDeal": false,
+            "fastDeliveryOptions": [
+              {
+                "type": "TOMORROW_SHIPPING",
+                "dailyCutoffHour": "00:00",
+                "deliveryTimeZone": "Europe/Istanbul",
+                "cutOffCountDown": {
+                  "years": 0,
+                  "months": 0,
+                  "days": 0,
+                  "hours": 6,
+                  "minutes": 42,
+                  "seconds": 46
+                }
+              }
+            ],
+            "overPriced": false,
+            "sellable": true,
+            "scheduledDelivery": false,
+            "isFlash": false,
+            "isWinner": true,
+            "isDiscountedListing": false
+          }
+        ],
+        "stamps": [
+          {
+            "type": "TypeB",
+            "imageUrl": "/indexing-sticker-stamp/moon/66cb9335-c0a5-4fb1-8f9b-174cfa48e1e3.png",
+            "position": "upper-left",
+            "aspectRatio": 0.4,
+            "priority": 1100
+          },
+          {
+            "type": "TypeA",
+            "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+            "position": "upper-left",
+            "aspectRatio": 0.25,
+            "priority": 1100
+          }
+        ],
+        "alternativeVariants": [],
+        "maxProductSaleQuantity": 10,
+        "cargoStartDate": "2024-01-11T17:17:14",
+        "cargoRemainingDays": 1,
+        "allVariants": [
+          { "itemNumber": 496878047, "value": "M", "inStock": true },
+          { "itemNumber": 496861180, "value": "L", "inStock": true },
+          { "itemNumber": 164807500, "value": "XL", "inStock": true },
+          { "itemNumber": 106199888, "value": "2XL", "inStock": false }
+        ],
+        "otherMerchantVariants": [
+          { "itemNumber": 496878076, "value": "S", "inStock": true },
+          { "itemNumber": 106199888, "value": "2XL", "inStock": true },
+          { "itemNumber": 106199896, "value": "3XL", "inStock": true },
+          { "itemNumber": 106193805, "value": "4XL", "inStock": true },
+          { "itemNumber": 106199892, "value": "5XL", "inStock": true }
+        ],
+        "hasCheapestVariant": true,
+        "agreedDeliveryDays": 1,
+        "buyMorePayLessPromotions": [],
+        "customValues": [
+          { "key": "dimensionalWeight", "value": "0.0" },
+          { "key": "stockCode", "value": "M/L FİTİLLİ TAYT" },
+          { "key": "vatRate", "value": "10" },
+          { "key": "deliveryCountries", "value": "AZ" }
+        ],
+        "searchableTags": [],
+        "freeCargo": false,
+        "isWinner": true
+      },
+      {
+        "beta": false,
+        "deliveryStartDate": "2024-01-11T17:17:14",
+        "deliveryEndDate": "2024-01-15T17:17:14",
+        "merchant": {
+          "id": 883070,
+          "name": "TİMBA",
+          "officialName": "YUSUF BAYRAM",
+          "cityName": "Bursa",
+          "registeredEmailAddress": "yusuf.bayram.4@hs01.kep.tr",
+          "taxNumber": "1580710543",
+          "sellerScore": 8.8,
+          "sellerScoreColor": "08B449",
+          "districtName": "Yıldırım",
+          "countryName": "Türkiye",
+          "address": "Mahalle/Semt:ZÜMRÜTEVLER MAH. Cadde/Sokak:3.sevgi SK. No: 6/A DEPO",
+          "logoUrl": "https://cdn.dsmcdn.com/seller-store/uploads/883070/49d342b8-e17a-4875-8d12-2ef89d4f3480.jpeg",
+          "stickers": [],
+          "merchantBadges": [
+            {
+              "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+              "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+              "type": "BADGE"
+            }
+          ],
+          "corporateInvoiceApplicable": true,
+          "affiliate": "TRENDYOLTR",
+          "merchantMarkers": [],
+          "componentCodes": [],
+          "locationBasedSales": false,
+          "mpAgreedDTD": true,
+          "mpEstimatedPackageDTD": true,
+          "allMpEstimatedPackageDTD": true,
+          "texApplicable": false,
+          "dropShipmentSupplier": false
+        },
+        "campaign": {
+          "id": 61,
+          "name": "Tüm Ürünler",
+          "stockTypeId": 7,
+          "startDate": "2010-01-01T17:04:05",
+          "endDate": "2061-01-01T18:04:05",
+          "tags": [],
+          "isMultipleSupplied": false
+        },
+        "promotions": [
+          {
+            "id": 9205616,
+            "name": "150 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+            "discountType": 7,
+            "promotionDiscountType": "Cargo",
+            "promotionEndDate": "2050-01-01T00:00:00",
+            "promotionRemainingDays": 9487,
+            "promotionRemainingHours": 6,
+            "promotionRemainingMinutes": 42,
+            "isLimitSatisfied": false,
+            "shortName": "Kargo Bedava",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          }
+        ],
+        "crossPromotions": [],
+        "variants": [
+          {
+            "listingId": "369ae38fd2239c28113e8cf51d79aa5f",
+            "fulfilmentType": "mp",
+            "itemNumber": 496878047,
+            "barcode": "SYHTYT-M-",
+            "quantity": 1000,
+            "price": {
+              "buyingPrice": 0,
+              "sellingPrice": 118,
+              "originalPrice": 118,
+              "manipulatedOriginalPrice": 118,
+              "discountedPrice": 118,
+              "currency": "TRY",
+              "profitMargin": 0
+            },
+            "freeCargo": false,
+            "availableForClaim": true,
+            "discountedPriceInfo": "",
+            "hasCollectable": false,
+            "deci": 1,
+            "rushDeliveryDuration": 24,
+            "variantAttributes": [
+              {
+                "attributeId": 338,
+                "attributeName": "Beden",
+                "attributeValue": "M",
+                "attributeType": "Size"
+              }
+            ],
+            "scores": [
+              { "key": "1", "value": 999997.4033926872, "campaignId": 61 },
+              { "key": "2", "value": 1000001.4535335319, "campaignId": 61 }
+            ],
+            "maxProductSaleQuantity": 10,
+            "unitInfo": {},
+            "supplementaryServices": [],
+            "groupTagIds": [],
+            "rushDeliveryMerchantListingExist": false,
+            "lowerPriceMerchantListingExist": false,
+            "hasGroupDeal": false,
+            "fastDeliveryOptions": [
+              {
+                "type": "TOMORROW_SHIPPING",
+                "dailyCutoffHour": "00:00",
+                "deliveryTimeZone": "Europe/Istanbul",
+                "cutOffCountDown": {
+                  "years": 0,
+                  "months": 0,
+                  "days": 0,
+                  "hours": 6,
+                  "minutes": 42,
+                  "seconds": 46
+                }
+              }
+            ],
+            "overPriced": false,
+            "sellable": true,
+            "scheduledDelivery": false,
+            "isFlash": false,
+            "isWinner": true,
+            "isDiscountedListing": false
+          }
+        ],
+        "stamps": [
+          {
+            "type": "TypeB",
+            "imageUrl": "/indexing-sticker-stamp/moon/66cb9335-c0a5-4fb1-8f9b-174cfa48e1e3.png",
+            "position": "upper-left",
+            "aspectRatio": 0.4,
+            "priority": 1100
+          },
+          {
+            "type": "TypeA",
+            "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+            "position": "upper-left",
+            "aspectRatio": 0.25,
+            "priority": 1100
+          }
+        ],
+        "alternativeVariants": [],
+        "maxProductSaleQuantity": 10,
+        "cargoStartDate": "2024-01-11T17:17:14",
+        "cargoRemainingDays": 1,
+        "hasCheapestVariant": false,
+        "agreedDeliveryDays": 1,
+        "buyMorePayLessPromotions": [],
+        "customValues": [
+          { "key": "dimensionalWeight", "value": "0.0" },
+          { "key": "stockCode", "value": "PLR-TYT-SYH-S" },
+          { "key": "vatRate", "value": "10" },
+          { "key": "deliveryCountries", "value": "AZ" }
+        ],
+        "searchableTags": [],
+        "freeCargo": false,
+        "isWinner": false
+      },
+      {
+        "beta": false,
+        "deliveryStartDate": "2024-01-10T17:17:14",
+        "deliveryEndDate": "2024-01-16T17:17:14",
+        "merchant": {
+          "id": 908034,
+          "name": "Serdilek giyim",
+          "officialName": "SERKAN KIZMAZER",
+          "cityName": "İstanbul",
+          "registeredEmailAddress": "serkan.kizmazer@hs01.kep.tr",
+          "taxNumber": "5620578396",
+          "sellerScore": 8.3,
+          "sellerScoreColor": "3CCD7D",
+          "districtName": "Sultangazi",
+          "countryName": "TÜRKİYE",
+          "address": "Mahalle/Semt:UĞUR MUMCU MAH. Cadde/Sokak:2131. SK. No:28 B",
+          "logoUrl": "https://cdn.dsmcdn.com/seller-store/preview/logo.jpeg",
+          "stickers": [],
+          "merchantBadges": [],
+          "corporateInvoiceApplicable": true,
+          "affiliate": "TRENDYOLTR",
+          "merchantMarkers": [],
+          "componentCodes": [],
+          "locationBasedSales": false,
+          "mpAgreedDTD": true,
+          "mpEstimatedPackageDTD": true,
+          "allMpEstimatedPackageDTD": true,
+          "texApplicable": false,
+          "dropShipmentSupplier": false
+        },
+        "campaign": {
+          "id": 61,
+          "name": "Tüm Ürünler",
+          "stockTypeId": 7,
+          "startDate": "2010-01-01T17:04:05",
+          "endDate": "2061-01-01T18:04:05",
+          "tags": [],
+          "isMultipleSupplied": false
+        },
+        "promotions": [
+          {
+            "id": 10124077,
+            "name": "150 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+            "discountType": 7,
+            "promotionDiscountType": "Cargo",
+            "promotionEndDate": "2050-01-01T00:00:00",
+            "promotionRemainingDays": 9487,
+            "promotionRemainingHours": 6,
+            "promotionRemainingMinutes": 42,
+            "isLimitSatisfied": false,
+            "shortName": "Kargo Bedava",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          }
+        ],
+        "crossPromotions": [],
+        "variants": [
+          {
+            "listingId": "032395af6bf6bee2418ff2da6d68da29",
+            "fulfilmentType": "mp",
+            "itemNumber": 496878047,
+            "barcode": "SYHTYT-M-",
+            "quantity": 996,
+            "price": {
+              "buyingPrice": 0,
+              "sellingPrice": 118,
+              "originalPrice": 118,
+              "manipulatedOriginalPrice": 118,
+              "discountedPrice": 118,
+              "currency": "TRY",
+              "profitMargin": 0
+            },
+            "freeCargo": false,
+            "availableForClaim": true,
+            "discountedPriceInfo": "",
+            "hasCollectable": false,
+            "deci": 1,
+            "rushDeliveryDuration": 0,
+            "variantAttributes": [
+              {
+                "attributeId": 338,
+                "attributeName": "Beden",
+                "attributeValue": "M",
+                "attributeType": "Size"
+              }
+            ],
+            "scores": [
+              { "key": "1", "value": 999996.2608254872, "campaignId": 61 },
+              { "key": "2", "value": 1000000.0557135319, "campaignId": 61 }
+            ],
+            "maxProductSaleQuantity": 10,
+            "unitInfo": {},
+            "supplementaryServices": [],
+            "groupTagIds": [],
+            "rushDeliveryMerchantListingExist": false,
+            "lowerPriceMerchantListingExist": false,
+            "hasGroupDeal": false,
+            "fastDeliveryOptions": [],
+            "overPriced": false,
+            "sellable": true,
+            "scheduledDelivery": false,
+            "isFlash": false,
+            "isWinner": true,
+            "isDiscountedListing": false
+          }
+        ],
+        "stamps": [
+          {
+            "type": "TypeB",
+            "imageUrl": "/indexing-sticker-stamp/moon/66cb9335-c0a5-4fb1-8f9b-174cfa48e1e3.png",
+            "position": "upper-left",
+            "aspectRatio": 0.4,
+            "priority": 1100
+          },
+          {
+            "type": "TypeA",
+            "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+            "position": "upper-left",
+            "aspectRatio": 0.25,
+            "priority": 1100
+          }
+        ],
+        "alternativeVariants": [],
+        "maxProductSaleQuantity": 10,
+        "cargoStartDate": "2024-01-12T17:17:14",
+        "cargoRemainingDays": 2,
+        "hasCheapestVariant": false,
+        "agreedDeliveryDays": 2,
+        "buyMorePayLessPromotions": [],
+        "customValues": [
+          { "key": "deliveryCountries", "value": "AZ" },
+          { "key": "stockCode", "value": "" },
+          { "key": "vatRate", "value": "10" },
+          { "key": "giftBox", "value": "false" },
+          { "key": "giftText", "value": "false" }
+        ],
+        "searchableTags": [],
+        "freeCargo": false,
+        "isWinner": false
+      },
+      {
+        "beta": false,
+        "deliveryStartDate": "2024-01-11T17:17:14",
+        "deliveryEndDate": "2024-01-15T17:17:14",
+        "merchant": {
+          "id": 247872,
+          "name": "angelstayl",
+          "officialName": "ALİ ÖLÇÜM",
+          "cityName": "İstanbul",
+          "registeredEmailAddress": "ali.olcum@hs01.kep.tr",
+          "taxNumber": "6540236239",
+          "sellerScore": 8.2,
+          "sellerScoreColor": "3CCD7D",
+          "districtName": "Bahçelievler",
+          "countryName": "Türkiye",
+          "address": "Soğanlı mah. Nevruz sokak. No6/b",
+          "logoUrl": "https://cdn.dsmcdn.com/seller-store/uploads/247872/55d2ebd2-1fd3-4834-917d-fbec33d566e9.jpeg",
+          "stickers": [],
+          "merchantBadges": [
+            {
+              "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+              "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+              "type": "BADGE"
+            }
+          ],
+          "corporateInvoiceApplicable": true,
+          "affiliate": "TRENDYOLTR",
+          "merchantMarkers": [],
+          "componentCodes": [],
+          "locationBasedSales": false,
+          "mpAgreedDTD": true,
+          "mpEstimatedPackageDTD": true,
+          "allMpEstimatedPackageDTD": true,
+          "bulkSalesLimit": 300,
+          "texApplicable": false,
+          "dropShipmentSupplier": false
+        },
+        "campaign": {
+          "id": 61,
+          "name": "Tüm Ürünler",
+          "stockTypeId": 7,
+          "startDate": "2010-01-01T17:04:05",
+          "endDate": "2061-01-01T18:04:05",
+          "tags": [],
+          "isMultipleSupplied": false
+        },
+        "promotions": [
+          {
+            "id": 8154827,
+            "name": "150 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+            "discountType": 7,
+            "promotionDiscountType": "Cargo",
+            "promotionEndDate": "2050-01-01T00:00:00",
+            "promotionRemainingDays": 9487,
+            "promotionRemainingHours": 6,
+            "promotionRemainingMinutes": 42,
+            "isLimitSatisfied": false,
+            "shortName": "Kargo Bedava",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          }
+        ],
+        "crossPromotions": [],
+        "variants": [
+          {
+            "listingId": "bcb65f0b024eb081a20199645841c6d8",
+            "fulfilmentType": "mp",
+            "itemNumber": 496878047,
+            "barcode": "SYHTYT-M-",
+            "quantity": 19987,
+            "price": {
+              "buyingPrice": 0,
+              "sellingPrice": 130,
+              "originalPrice": 130,
+              "manipulatedOriginalPrice": 130,
+              "discountedPrice": 130,
+              "currency": "TRY",
+              "profitMargin": 0
+            },
+            "freeCargo": false,
+            "availableForClaim": true,
+            "discountedPriceInfo": "",
+            "hasCollectable": false,
+            "deci": 1,
+            "rushDeliveryDuration": 24,
+            "variantAttributes": [
+              {
+                "attributeId": 338,
+                "attributeName": "Beden",
+                "attributeValue": "M",
+                "attributeType": "Size"
+              }
+            ],
+            "scores": [
+              { "key": "1", "value": 999995.4468487614, "campaignId": 61 },
+              { "key": "2", "value": 999997.4524070435, "campaignId": 61 }
+            ],
+            "maxProductSaleQuantity": 10,
+            "unitInfo": {},
+            "supplementaryServices": [],
+            "groupTagIds": [],
+            "rushDeliveryMerchantListingExist": false,
+            "lowerPriceMerchantListingExist": false,
+            "hasGroupDeal": false,
+            "fastDeliveryOptions": [
+              {
+                "type": "TOMORROW_SHIPPING",
+                "dailyCutoffHour": "00:00",
+                "deliveryTimeZone": "Europe/Istanbul",
+                "cutOffCountDown": {
+                  "years": 0,
+                  "months": 0,
+                  "days": 0,
+                  "hours": 6,
+                  "minutes": 42,
+                  "seconds": 46
+                }
+              }
+            ],
+            "overPriced": false,
+            "sellable": true,
+            "scheduledDelivery": false,
+            "isFlash": false,
+            "isWinner": true,
+            "isDiscountedListing": false
+          }
+        ],
+        "stamps": [
+          {
+            "type": "TypeB",
+            "imageUrl": "/indexing-sticker-stamp/moon/66cb9335-c0a5-4fb1-8f9b-174cfa48e1e3.png",
+            "position": "upper-left",
+            "aspectRatio": 0.4,
+            "priority": 1100
+          },
+          {
+            "type": "TypeA",
+            "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+            "position": "upper-left",
+            "aspectRatio": 0.25,
+            "priority": 1100
+          }
+        ],
+        "alternativeVariants": [],
+        "maxProductSaleQuantity": 10,
+        "cargoStartDate": "2024-01-11T17:17:14",
+        "cargoRemainingDays": 1,
+        "hasCheapestVariant": false,
+        "agreedDeliveryDays": 1,
+        "buyMorePayLessPromotions": [],
+        "customValues": [
+          { "key": "dimensionalWeight", "value": "0.0" },
+          { "key": "stockCode", "value": "" },
+          { "key": "vatRate", "value": "10" },
+          { "key": "backUpDeliveryCountries", "value": "AZ" },
+          { "key": "deliveryCountries", "value": "AZ" },
+          { "key": "hsCode", "value": "611529000012" },
+          { "key": "microExport", "value": "true" },
+          { "key": "origin", "value": "TR" }
+        ],
+        "searchableTags": [],
+        "freeCargo": false,
+        "isWinner": false
+      },
+      {
+        "beta": false,
+        "deliveryStartDate": "2024-01-11T17:17:14",
+        "deliveryEndDate": "2024-01-15T17:17:14",
+        "merchant": {
+          "id": 163242,
+          "name": "VANSCHENDEL",
+          "officialName": "CANDAN TOKGÖZ",
+          "cityName": "İstanbul",
+          "centralRegistrationSystemNumber": "5341957525600000",
+          "registeredEmailAddress": "candan.tokgoz@hs01.kep.tr",
+          "taxNumber": "8480171320",
+          "sellerScore": 8.9,
+          "sellerScoreColor": "08B449",
+          "districtName": "Güngören",
+          "countryName": "Türkiye",
+          "address": "a.nafiz gürman mahallesi ahmet kutsi tecer caddesi No:21/G",
+          "logoUrl": "https://cdn.dsmcdn.com/seller-store/uploads/163242/926bb40c-299e-441f-aa6e-694d5ed9377c.jpeg",
+          "stickers": [],
+          "merchantBadges": [
+            {
+              "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+              "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+              "type": "BADGE"
+            }
+          ],
+          "corporateInvoiceApplicable": true,
+          "affiliate": "TRENDYOLTR",
+          "merchantMarkers": [],
+          "componentCodes": [],
+          "locationBasedSales": false,
+          "mpAgreedDTD": true,
+          "mpEstimatedPackageDTD": true,
+          "allMpEstimatedPackageDTD": true,
+          "texApplicable": false,
+          "dropShipmentSupplier": false
+        },
+        "campaign": {
+          "id": 61,
+          "name": "Tüm Ürünler",
+          "stockTypeId": 7,
+          "startDate": "2010-01-01T17:04:05",
+          "endDate": "2061-01-01T18:04:05",
+          "tags": [],
+          "isMultipleSupplied": false
+        },
+        "promotions": [
+          {
+            "id": 10495524,
+            "name": "2. Ürüne 10 TL İndirim",
+            "discountType": 2,
+            "promotionDiscountType": "TwoForOne",
+            "promotionEndDate": "2024-02-16T23:59:00",
+            "promotionRemainingDays": 37,
+            "promotionRemainingHours": 6,
+            "promotionRemainingMinutes": 41,
+            "isLimitSatisfied": false,
+            "shortName": "Çok Al Az Öde",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          },
+          {
+            "id": 8101668,
+            "name": "150 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+            "discountType": 7,
+            "promotionDiscountType": "Cargo",
+            "promotionEndDate": "2050-01-01T00:00:00",
+            "promotionRemainingDays": 9487,
+            "promotionRemainingHours": 6,
+            "promotionRemainingMinutes": 42,
+            "isLimitSatisfied": false,
+            "shortName": "Kargo Bedava",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          }
+        ],
+        "crossPromotions": [],
+        "variants": [
+          {
+            "listingId": "baf3663c8a012ced4a7f850cda6d4540",
+            "fulfilmentType": "mp",
+            "itemNumber": 496878047,
+            "barcode": "SYHTYT-M-",
+            "quantity": 1499,
+            "price": {
+              "buyingPrice": 0,
+              "sellingPrice": 149,
+              "originalPrice": 149,
+              "manipulatedOriginalPrice": 149,
+              "discountedPrice": 149,
+              "currency": "TRY",
+              "profitMargin": 0
+            },
+            "freeCargo": false,
+            "availableForClaim": true,
+            "discountedPriceInfo": "",
+            "hasCollectable": true,
+            "deci": 1,
+            "rushDeliveryDuration": 24,
+            "variantAttributes": [
+              {
+                "attributeId": 338,
+                "attributeName": "Beden",
+                "attributeValue": "M",
+                "attributeType": "Size"
+              }
+            ],
+            "scores": [
+              { "key": "1", "value": 999993.7299132003, "campaignId": 61 },
+              { "key": "2", "value": 999992.9251545179, "campaignId": 61 }
+            ],
+            "maxProductSaleQuantity": 10,
+            "unitInfo": {},
+            "supplementaryServices": [],
+            "groupTagIds": [],
+            "rushDeliveryMerchantListingExist": false,
+            "lowerPriceMerchantListingExist": false,
+            "hasGroupDeal": false,
+            "fastDeliveryOptions": [
+              {
+                "type": "TOMORROW_SHIPPING",
+                "dailyCutoffHour": "00:00",
+                "deliveryTimeZone": "Europe/Istanbul",
+                "cutOffCountDown": {
+                  "years": 0,
+                  "months": 0,
+                  "days": 0,
+                  "hours": 6,
+                  "minutes": 42,
+                  "seconds": 46
+                }
+              }
+            ],
+            "overPriced": false,
+            "sellable": true,
+            "scheduledDelivery": false,
+            "isFlash": false,
+            "isWinner": true,
+            "isDiscountedListing": false
+          }
+        ],
+        "stamps": [
+          {
+            "type": "TypeB",
+            "imageUrl": "/indexing-sticker-stamp/moon/66cb9335-c0a5-4fb1-8f9b-174cfa48e1e3.png",
+            "position": "upper-left",
+            "aspectRatio": 0.4,
+            "priority": 1100
+          },
+          {
+            "type": "TypeA",
+            "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+            "position": "upper-left",
+            "aspectRatio": 0.25,
+            "priority": 1100
+          }
+        ],
+        "alternativeVariants": [],
+        "maxProductSaleQuantity": 10,
+        "cargoStartDate": "2024-01-11T17:17:14",
+        "cargoRemainingDays": 1,
+        "hasCheapestVariant": false,
+        "agreedDeliveryDays": 1,
+        "buyMorePayLessPromotions": [],
+        "customValues": [
+          { "key": "dimensionalWeight", "value": "0.0" },
+          { "key": "stockCode", "value": "" },
+          { "key": "vatRate", "value": "10" },
+          { "key": "backUpDeliveryCountries", "value": "AZ" },
+          { "key": "deliveryCountries", "value": "AZ" },
+          { "key": "hsCode", "value": "611510900000" },
+          { "key": "microExport", "value": "true" }
+        ],
+        "searchableTags": [],
+        "freeCargo": false,
+        "isWinner": false
+      },
+      {
+        "beta": false,
+        "deliveryStartDate": "2024-01-11T17:17:14",
+        "deliveryEndDate": "2024-01-15T17:17:14",
+        "merchant": {
+          "id": 672804,
+          "name": "SULTAN TİCARET",
+          "officialName": "HATİCE DEMİR",
+          "cityName": "Edirne",
+          "centralRegistrationSystemNumber": "2413668969400001",
+          "registeredEmailAddress": "hatice.demir.11@hs01.kep.tr",
+          "taxNumber": "3720369046",
+          "sellerScore": 8.6,
+          "sellerScoreColor": "08B449",
+          "districtName": "Keşan",
+          "countryName": "Türkiye",
+          "address": "Mahalle/Semt:KÖYÜN KENDİSİ Cadde/Sokak:BÜYÜKDOĞANCA KÜME EVLER Köy:BÜYÜKDOĞANCA KÖYÜ No:100 /3",
+          "logoUrl": "https://cdn.dsmcdn.com/seller-store/uploads/672804/d7787cf1-5009-4dd4-b99f-37a63e397be3.jpeg",
+          "stickers": [],
+          "merchantBadges": [],
+          "corporateInvoiceApplicable": true,
+          "affiliate": "TRENDYOLTR",
+          "merchantMarkers": [],
+          "componentCodes": [],
+          "locationBasedSales": false,
+          "mpAgreedDTD": true,
+          "mpEstimatedPackageDTD": true,
+          "allMpEstimatedPackageDTD": true,
+          "bulkSalesLimit": 50,
+          "texApplicable": false,
+          "dropShipmentSupplier": false
+        },
+        "campaign": {
+          "id": 61,
+          "name": "Tüm Ürünler",
+          "stockTypeId": 7,
+          "startDate": "2010-01-01T17:04:05",
+          "endDate": "2061-01-01T18:04:05",
+          "tags": [],
+          "isMultipleSupplied": false
+        },
+        "promotions": [
+          {
+            "id": 10572986,
+            "name": "2. Ürüne 5 TL İndirim",
+            "discountType": 2,
+            "promotionDiscountType": "TwoForOne",
+            "promotionEndDate": "2024-01-31T23:59:00",
+            "promotionRemainingDays": 21,
+            "promotionRemainingHours": 6,
+            "promotionRemainingMinutes": 41,
+            "isLimitSatisfied": false,
+            "shortName": "Çok Al Az Öde",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          },
+          {
+            "id": 8633205,
+            "name": "150 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+            "discountType": 7,
+            "promotionDiscountType": "Cargo",
+            "promotionEndDate": "2050-01-01T00:00:00",
+            "promotionRemainingDays": 9487,
+            "promotionRemainingHours": 6,
+            "promotionRemainingMinutes": 42,
+            "isLimitSatisfied": false,
+            "shortName": "Kargo Bedava",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          }
+        ],
+        "crossPromotions": [],
+        "variants": [
+          {
+            "listingId": "90b91cb2c491bfdaae35a61f073e7453",
+            "fulfilmentType": "mp",
+            "itemNumber": 496878047,
+            "barcode": "SYHTYT-M-",
+            "quantity": 403,
+            "price": {
+              "buyingPrice": 0,
+              "sellingPrice": 149.99,
+              "originalPrice": 149.99,
+              "manipulatedOriginalPrice": 149.99,
+              "discountedPrice": 149.99,
+              "currency": "TRY",
+              "profitMargin": 0
+            },
+            "freeCargo": false,
+            "availableForClaim": true,
+            "discountedPriceInfo": "",
+            "hasCollectable": true,
+            "deci": 1,
+            "rushDeliveryDuration": 24,
+            "variantAttributes": [
+              {
+                "attributeId": 338,
+                "attributeName": "Beden",
+                "attributeValue": "M",
+                "attributeType": "Size"
+              }
+            ],
+            "scores": [
+              { "key": "1", "value": 999993.3358619605, "campaignId": 61 },
+              { "key": "2", "value": 999992.2677470966, "campaignId": 61 }
+            ],
+            "maxProductSaleQuantity": 10,
+            "unitInfo": {},
+            "supplementaryServices": [],
+            "groupTagIds": [],
+            "rushDeliveryMerchantListingExist": false,
+            "lowerPriceMerchantListingExist": false,
+            "hasGroupDeal": false,
+            "fastDeliveryOptions": [
+              {
+                "type": "TOMORROW_SHIPPING",
+                "dailyCutoffHour": "00:00",
+                "deliveryTimeZone": "Europe/Istanbul",
+                "cutOffCountDown": {
+                  "years": 0,
+                  "months": 0,
+                  "days": 0,
+                  "hours": 6,
+                  "minutes": 42,
+                  "seconds": 46
+                }
+              }
+            ],
+            "overPriced": false,
+            "sellable": true,
+            "scheduledDelivery": false,
+            "isFlash": false,
+            "isWinner": true,
+            "isDiscountedListing": false
+          }
+        ],
+        "stamps": [
+          {
+            "type": "TypeB",
+            "imageUrl": "/indexing-sticker-stamp/moon/66cb9335-c0a5-4fb1-8f9b-174cfa48e1e3.png",
+            "position": "upper-left",
+            "aspectRatio": 0.4,
+            "priority": 1100
+          },
+          {
+            "type": "TypeA",
+            "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+            "position": "upper-left",
+            "aspectRatio": 0.25,
+            "priority": 1100
+          }
+        ],
+        "alternativeVariants": [],
+        "maxProductSaleQuantity": 10,
+        "cargoStartDate": "2024-01-11T17:17:14",
+        "cargoRemainingDays": 1,
+        "hasCheapestVariant": false,
+        "agreedDeliveryDays": 1,
+        "buyMorePayLessPromotions": [],
+        "customValues": [
+          { "key": "deliveryCountries", "value": "AZ" },
+          { "key": "hsCode", "value": "611510900000" },
+          { "key": "microExport", "value": "true" },
+          { "key": "stockCode", "value": "" },
+          { "key": "vatRate", "value": "10" },
+          { "key": "backUpDeliveryCountries", "value": "AZ" }
+        ],
+        "searchableTags": [],
+        "freeCargo": false,
+        "isWinner": false
+      },
+      {
+        "beta": false,
+        "deliveryStartDate": "2024-01-10T17:17:14",
+        "deliveryEndDate": "2024-01-17T17:17:14",
+        "merchant": {
+          "id": 704349,
+          "name": "RSİ TREND",
+          "officialName": "RECEP BAŞARAN",
+          "cityName": "İstanbul",
+          "centralRegistrationSystemNumber": "",
+          "taxNumber": "1460315854",
+          "sellerScore": 7.7,
+          "sellerScoreColor": "F27A1A",
+          "districtName": "Küçükçekmece",
+          "countryName": "TÜRKİYE",
+          "address": "YARIMBURGAZ MAH 1.NARLI SOK NO 12",
+          "logoUrl": "https://cdn.dsmcdn.com/seller-store/preview/logo.jpeg",
+          "stickers": [],
+          "merchantBadges": [],
+          "corporateInvoiceApplicable": true,
+          "affiliate": "TRENDYOLTR",
+          "merchantMarkers": [],
+          "componentCodes": [],
+          "locationBasedSales": false,
+          "mpAgreedDTD": true,
+          "mpEstimatedPackageDTD": true,
+          "allMpEstimatedPackageDTD": true,
+          "texApplicable": false,
+          "dropShipmentSupplier": false
+        },
+        "campaign": {
+          "id": 61,
+          "name": "Tüm Ürünler",
+          "stockTypeId": 7,
+          "startDate": "2010-01-01T17:04:05",
+          "endDate": "2061-01-01T18:04:05",
+          "tags": [],
+          "isMultipleSupplied": false
+        },
+        "promotions": [
+          {
+            "id": 8549978,
+            "name": "150 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+            "discountType": 7,
+            "promotionDiscountType": "Cargo",
+            "promotionEndDate": "2050-01-01T00:00:00",
+            "promotionRemainingDays": 9487,
+            "promotionRemainingHours": 6,
+            "promotionRemainingMinutes": 42,
+            "isLimitSatisfied": false,
+            "shortName": "Kargo Bedava",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          }
+        ],
+        "crossPromotions": [],
+        "variants": [
+          {
+            "listingId": "5356a020557e237b06c1032466af6398",
+            "fulfilmentType": "mp",
+            "itemNumber": 496878047,
+            "barcode": "SYHTYT-M-",
+            "quantity": 500,
+            "price": {
+              "buyingPrice": 0,
+              "sellingPrice": 149,
+              "originalPrice": 149,
+              "manipulatedOriginalPrice": 149,
+              "discountedPrice": 149,
+              "currency": "TRY",
+              "profitMargin": 0
+            },
+            "freeCargo": false,
+            "availableForClaim": true,
+            "discountedPriceInfo": "",
+            "hasCollectable": false,
+            "deci": 1,
+            "rushDeliveryDuration": 0,
+            "variantAttributes": [
+              {
+                "attributeId": 338,
+                "attributeName": "Beden",
+                "attributeValue": "M",
+                "attributeType": "Size"
+              }
+            ],
+            "scores": [
+              { "key": "1", "value": 999991.9624685358, "campaignId": 61 },
+              { "key": "2", "value": 999990.6706291039, "campaignId": 61 }
+            ],
+            "maxProductSaleQuantity": 10,
+            "unitInfo": {},
+            "supplementaryServices": [],
+            "groupTagIds": [],
+            "rushDeliveryMerchantListingExist": false,
+            "lowerPriceMerchantListingExist": false,
+            "hasGroupDeal": false,
+            "fastDeliveryOptions": [],
+            "overPriced": false,
+            "sellable": true,
+            "scheduledDelivery": false,
+            "isFlash": false,
+            "isWinner": true,
+            "isDiscountedListing": false
+          }
+        ],
+        "stamps": [
+          {
+            "type": "TypeB",
+            "imageUrl": "/indexing-sticker-stamp/moon/66cb9335-c0a5-4fb1-8f9b-174cfa48e1e3.png",
+            "position": "upper-left",
+            "aspectRatio": 0.4,
+            "priority": 1100
+          },
+          {
+            "type": "TypeA",
+            "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+            "position": "upper-left",
+            "aspectRatio": 0.25,
+            "priority": 1100
+          }
+        ],
+        "alternativeVariants": [],
+        "maxProductSaleQuantity": 10,
+        "cargoStartDate": "2024-01-12T17:17:14",
+        "cargoRemainingDays": 2,
+        "hasCheapestVariant": false,
+        "agreedDeliveryDays": 2,
+        "buyMorePayLessPromotions": [],
+        "customValues": [
+          { "key": "dimensionalWeight", "value": "0.0" },
+          { "key": "stockCode", "value": "ÇTYT034" },
+          { "key": "vatRate", "value": "10" },
+          { "key": "deliveryCountries", "value": "AZ" }
+        ],
+        "searchableTags": [],
+        "freeCargo": false,
+        "isWinner": false
+      }
+    ],
+    "deliveryInformation": {
+      "isRushDelivery": true,
+      "deliveryDate": "11 - 15 Ocak",
+      "fastDeliveryOptions": [
+        {
+          "type": "TOMORROW_SHIPPING",
+          "dailyCutoffHour": "00:00",
+          "deliveryTimeZone": "Europe/Istanbul",
+          "cutOffCountDown": {
+            "years": 0,
+            "months": 0,
+            "days": 0,
+            "hours": 6,
+            "minutes": 42,
+            "seconds": 46
+          }
+        }
+      ]
+    },
+    "cargoRemainingDays": 1,
+    "isMarketplace": true,
+    "productStamps": [
+      {
+        "type": "TypeA",
+        "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+        "position": "upper-left",
+        "aspectRatio": 0.25,
+        "priority": 1100
+      }
+    ],
+    "hasHtmlContent": false,
+    "favoriteCount": 59230,
+    "uxLayout": "Fashion",
+    "isDigitalGood": false,
+    "isRunningOut": false,
+    "scheduledDelivery": false,
+    "ratingScore": {
+      "averageRating": 3.69,
+      "totalRatingCount": 3930,
+      "totalCommentCount": 2512
+    },
+    "showStarredAttributes": false,
+    "reviewsUrl": "/fit-fit-tayt/ekstra-yuksek-bel-genis-kemer-toparlayici-sikilastirici-siyah-celik-tayt-p-60061732/yorumlar",
+    "questionsUrl": "/fit-fit-tayt/ekstra-yuksek-bel-genis-kemer-toparlayici-sikilastirici-siyah-celik-tayt-p-60061732/saticiya-sor?merchantId=532623",
+    "sellerQuestionEnabled": true,
+    "sizeChartUrl": "",
+    "sizeExpectationAvailable": true,
+    "crossPromotionAward": {
+      "awardType": null,
+      "awardValue": null,
+      "contentId": 0,
+      "merchantId": 0
+    },
+    "rushDeliveryMerchantListingExist": false,
+    "isRushDelivery": true,
+    "lowerPriceMerchantListingExist": false,
+    "showValidFlashSales": false,
+    "showExpiredFlashSales": false,
+    "walletRebate": { "minPrice": 300, "maxPrice": 10000, "rebateRatio": 0.01 },
+    "isArtWork": false,
+    "buyMorePayLessPromotions": [],
+    "filterableLabels": [
+      {
+        "id": "53f7d86b-1d4c-48e3-8ff8-2c493e700c87",
+        "name": "coksatanlar_az",
+        "displayName": "En Çok Satanlar",
+        "visibleAgg": false
+      },
+      {
+        "id": "641c11df-6c4b-4747-942f-84792d119e51",
+        "name": "concept_iyikialmisim",
+        "displayName": " İyi Ki Almışım",
+        "visibleAgg": false
+      },
+      {
+        "id": "88b35d32-4925-40ec-9dc5-4ff5a8f04c0a",
+        "name": "concept_petihtiyaclari",
+        "displayName": " Pet İhtiyaçları",
+        "visibleAgg": false
+      },
+      {
+        "id": "fe918592-789f-42f8-aa13-883a8f363826",
+        "name": "conceptds_iyi-ki-almisim",
+        "displayName": "İyi Ki Almışım",
+        "visibleAgg": false
+      },
+      {
+        "id": "12af30f5-56d3-4726-9fa2-ddb2fc1a1db2",
+        "name": "fenomenlerin-sectikleri",
+        "displayName": "Fenomenlerin Seçtikleri",
+        "visibleAgg": false
+      },
+      {
+        "id": "1ad56800-6cb4-4efb-8658-b995fa3bdacc",
+        "name": "encoksatangiyim",
+        "displayName": "En Çok Satan Giyim Ürünleri",
+        "visibleAgg": false
+      },
+      {
+        "id": "8824e4c9-8d77-4ab9-8db4-9ca71026e9d2",
+        "name": "encokarananurunler",
+        "displayName": "En Çok Aranan Ürünler",
+        "visibleAgg": false
+      },
+      {
+        "id": "91f34656-f4e9-4b6a-b830-6809e5facb26",
+        "name": "encoksatanurunler",
+        "displayName": "En Çok Satan Ürünler",
+        "visibleAgg": false
+      },
+      {
+        "id": "207ea3e6-5b88-4335-b1bf-a0505d9c39ab",
+        "name": "encokbakilanurunler",
+        "displayName": "En Çok Bakılan Ürünler",
+        "visibleAgg": false
+      }
+    ],
+    "customValues": [
+      { "key": "dimensionalWeight", "value": "0.0" },
+      { "key": "stockCode", "value": "M/L FİTİLLİ TAYT" },
+      { "key": "vatRate", "value": "10" },
+      { "key": "deliveryCountries", "value": "AZ" }
+    ]
+  },
+  "htmlContent": null,
+  "recoAbDecider": "",
+  "user": { "loggedIn": false, "isBuyer": false, "isElite": false },
+  "configuration": {
+    "htmlContentCssUrl": "https://cdn.dsmcdn.com/mweb/production/main.be4f3b6e62dd77fccc78.css",
+    "htmlContentJsUrl": "https://cdn.dsmcdn.com/mweb/production/main.557ead4436e1bc2fada3.js",
+    "storefrontId": 1,
+    "channelId": "1",
+    "showPaymentMethodsAndShippings": false,
+    "showDiscountInformation": false,
+    "isDynamicRender": false,
+    "widgets": [
+      { "name": "millaCampaignBanner", "order": 1 },
+      { "name": "corporateInvoice", "order": 2 },
+      { "name": "pudoBanner", "order": 3 },
+      { "name": "campaigns", "order": 4 },
+      { "name": "seller", "order": 5 },
+      { "name": "otherSellers", "order": 6 },
+      { "name": "featuredComment", "order": 7 },
+      { "name": "cta", "order": 8 },
+      { "name": "otherCategories", "order": 9 },
+      { "name": "discover", "order": 10 }
+    ],
+    "maxWidgetCount": 3,
+    "callToActions": [
+      { "name": "CTA_PRODUCT_REVIEWS", "selector": ".pr-rnr-w" },
+      { "name": "CTA_PRODUCT_DESC", "selector": ".product-desc" },
+      { "name": "CTA_SIMILAR_PRODUCTS", "selector": ".productDetail-Similar" },
+      { "name": "CTA_CROSS_PRODUCTS", "selector": ".productDetail-Cross" }
+    ],
+    "discovers": [
+      {
+        "name": "Sen de Al!",
+        "link": "/sr/?fl=encoksatanurunler",
+        "image": "https://cdn.dsmcdn.com/ty126/web-pdp/cok_satanlar.png"
+      },
+      {
+        "name": "En Çok Sepete Eklenenler",
+        "link": "/sr?fl=encoksepeteeklenenurunler",
+        "image": "https://cdn.dsmcdn.com/ty127/web-pdp/en_cok_sepete_eklenenler.png"
+      },
+      {
+        "name": "En Beğenilenler",
+        "link": "/sr?fl=encokfavorilenenurunler",
+        "image": "https://cdn.dsmcdn.com/ty127/web-pdp/en_begenilenler.png"
+      }
+    ],
+    "discoverWidgetTitle": "Trendyol'da Keşfet!",
+    "stickNavigationItemsOrder": [
+      "SIMILAR_PRODUCTS",
+      "CROSS_PRODUCTS",
+      "OTHER_MERCHANTS",
+      "PRODUCT_REVIEWS",
+      "PRODUCT_DETAILS"
+    ],
+    "stickNavigationItems": {
+      "PRODUCT_DETAILS": {
+        "translateKey": "PRODUCT_DETAILS",
+        "selector": ".details-section[data-drroot=\"product-info\"] > .title"
+      },
+      "PRODUCT_REVIEWS": {
+        "translateKey": "PRODUCT_REVIEWS",
+        "selector": "article[data-drroot=\"product-reviews\"]"
+      },
+      "SIMILAR_PRODUCTS": {
+        "translateKey": "CTA_SIMILAR_PRODUCTS",
+        "selector": "aside[data-drroot=\"similar-products\"]"
+      },
+      "OTHER_MERCHANTS": {
+        "translateKey": "OTHER_MERCHANTS",
+        "selector": "#other-merchants-dr"
+      },
+      "CROSS_PRODUCTS": {
+        "translateKey": "CROSS_PRODUCTS_TITLE",
+        "selector": "aside[data-drroot=\"cross-recommendations\"] > .title"
+      },
+      "REPORT_CONTENT": {
+        "translateKey": "PRODUCT_DETAIL_REPORT_ABUSE_TEXT",
+        "selector": ".report-container .report-content"
+      },
+      "PRODUCT_DESCRIPTION": {
+        "translateKey": "PRODUCT_DESCRIPTION",
+        "selector": "#urun-aciklamasi > .title"
+      },
+      "SLP": {
+        "translateKey": "YOU_MAY_ALSO_INTERESTED",
+        "selector": "div[data-drroot=\"slp-reco\"] > h3"
+      },
+      "COLLECTION_RECOMMENDATION": {
+        "translateKey": "COLLECTION_RECOMMENDATION_TITLE",
+        "selector": "#collection-recommendation > .collection-recommendation-container > .title"
+      },
+      "RELATED_CATEGORIES": {
+        "translateKey": "RELATED_CATEGORIES",
+        "selector": "aside[data-drroot=\"related-categories\"]"
+      }
+    },
+    "isIgnoredVasBoutiqueForEmergency": false,
+    "isIgnoredDigitalGoodsDeliveryTextContentForEmergency": false,
+    "digitalGoodsDeliveryText": "1 saat içinde E-mail olarak gönderilecektir.",
+    "isInternational": false,
+    "culture": "tr-TR",
+    "cdnUrl": "https://cdn.dsmcdn.com",
+    "claimInfoText": "15 gün içinde ücretsiz iade.",
+    "questionsAndAnswersEnabled": true,
+    "ratingReviewEnabled": true,
+    "otherMerchantsEnabled": true,
+    "ratingReviewLikesEnabled": true,
+    "newRatingSummaryEnabled": true,
+    "redirectReviewsPageEnabled": true,
+    "languageCode": "tr",
+    "sizeCharts": [
+      [
+        "Güneş Gözlüğü",
+        "https://img-trendyol.mncdn.com/assets/banner/2018/webBanners/bedenTablosu/gozluk_beden_tablosu.jpg",
+        "Gözlük Beden Kılavuzu"
+      ],
+      [
+        "İmaj Gözlükleri",
+        "https://img-trendyol.mncdn.com/assets/banner/2018/webBanners/bedenTablosu/gozluk_beden_tablosu.jpg",
+        "Gözlük Beden Kılavuzu"
+      ],
+      [
+        "Saat",
+        "https://img-trendyol.mncdn.com/assets/banner/2018/webBanners/bedenTablosu/saatler_beden_tablosu.jpg",
+        "Saat Beden Kılavuzu"
+      ]
+    ],
+    "enhancedEcommerceEnabled": true,
+    "addReviewEnabled": false,
+    "reviewReportAbuseEnabled": true,
+    "showImageOnProductCommentsEnabled": true,
+    "crossProductsTitle": "Bu Ürünü Alanlar Bunları da Aldı",
+    "crossProductsEnabled": true,
+    "recommendationEnabled": true,
+    "productGroupEnabled": true,
+    "htmlContentEnabled": true,
+    "productAttributesEnabled": true,
+    "publishCriteriaEnabled": true,
+    "sellerAreaEnabled": true,
+    "sellerPointLowLimit": 8,
+    "sizeChartUrl": "https://cdn.dsmcdn.com/Assets/frontend-web-sizechart/tr1.html",
+    "productDetailMetaDescription": "Trendyol.com sayesinde {0} ürününe çok özel indirimlerle sahip olabilecek ve alışveriş alışkanlıklarınızı değiştireceksiniz.",
+    "siteAddress": "https://www.trendyol.com",
+    "notifyMeEnabled": true,
+    "notifyMeCount": 10,
+    "recommendationAbTestValue": "A_0-0,B_0-0,C_1-100",
+    "lastProductCountAbTestValue": "A_0-0,B_0-100",
+    "recoCardAbTestValue": "A_0-100,B_0-0",
+    "abTestingCookieName": "WebAbTesting",
+    "clientSideReviewsEnabled": false,
+    "clientSideHtmlContentEnabled": true,
+    "alternativeVariantsEnabled": true,
+    "relatedCategoryEnabled": true,
+    "relatedCategoryAbTestVariant": "C",
+    "relatedCategoryAbTestValue": "A_0-0,B_0-0,C_1-100,D_0-0,E_0-0",
+    "relatedCategoryTitleTooltipThreshold": 43,
+    "relatedCategoryCountLimit": 5,
+    "relatedCategoryImageVirtualBrandIds": [
+      33, 102347, 39, 141, 53, 981, 254, 204, 466, 155, 296, 586, 37, 131, 971,
+      178, 333, 129, 136, 49, 328, 179, 38, 101446, 568, 138, 859, 289, 754, 43,
+      128, 44, 618, 569, 535, 193, 660, 160, 303, 347, 1265, 658, 103029,
+      104699, 300, 103500, 103124, 101476, 103187, 104189, 208
+    ],
+    "relatedCategoryVirtualBrandImagePath": "assets/banner/2018/mobileCDN/brandFollow",
+    "defaultBrandCategoryCombinationImageUrl": "Assets/related-category-default-image.png",
+    "legalRequirementCacheDuration": 0,
+    "recoCrossCustomStampsEnabled": true,
+    "canShowSizeChartButton": true,
+    "productDetailImprovedBreadcrumbEnabled": true,
+    "sellerShippingEnabled": false,
+    "productDetailReportAbuseEnabled": true,
+    "productDetailReportAbuseItems": "[{\"id\": 0,\"value\": \"Ürünün fiyatı hatalı\"},{\"id\": 1,\"value\": \"Görsel hatalı\"},{\"id\": 2,\"value\": \"Ürünün ismi eksik/hatalı\"},{\"id\": 3,\"value\": \"Ürün özellikleri eksik ya da hatalı\"},{\"id\": 4,\"value\": \"Ürünün kategorisi hatalı\"}]",
+    "scheduledDeliveryWarningMessage": "Seçtiğiniz adrese şu anda randevulu teslimat hizmeti bulunmamaktadır. Ürünleriniz kargo ile gönderilecektir.",
+    "installmentStampAmountText": "9 TAKSİT",
+    "starredAttributesLimit": 4,
+    "sellerStoreLinkEnabled": true,
+    "featuredCardFavButtonEnabled": true,
+    "openReviewModalEnabled": false,
+    "currencySymbol": "TL",
+    "newSearchEnabled": true,
+    "stampType": "TypeA",
+    "memberGwUrl": "https://public-sdc.trendyol.com/discovery-web-membergw-service",
+    "wishListUrl": "https://public-mdc.trendyol.com/discovery-web-websfxwishlist-santral",
+    "getNotifyMePreferencesFromMemberGw": true,
+    "publicProductGwUrl": "https://public.trendyol.com/discovery-web-productgw-service",
+    "publicSdcProductGwUrl": "https://public-sdc.trendyol.com/discovery-web-productgw-service",
+    "publicMdcProductGwUrl": "https://public-mdc.trendyol.com/discovery-web-productgw-service",
+    "publicVasSfxApiUrl": "https://public.trendyol.com/discovery-web-websfxcheckoutvasservice-santral",
+    "publicMdcRecoGwUrl": "https://public-mdc.trendyol.com/discovery-web-recogw-service",
+    "productRecommendationVersion": 2,
+    "publicSdcCheckoutGwUrl": "https://public-sdc.trendyol.com/discovery-web-checkout-service",
+    "publicMdcCheckoutGwUrl": "https://public-mdc.trendyol.com/discovery-web-checkout-service",
+    "addToBasketOnCheckoutgwEnabled": false,
+    "collectionRecommendationEnabled": true,
+    "showCargoRemainingDays": true,
+    "showLinearAlternativeVariants": false,
+    "sellerStoreUrl": "https://public-sdc.trendyol.com/discovery-sellerstore-webgw-service",
+    "minSellerFollowerCount": 1000,
+    "questionCountToShow": 3,
+    "collectableCouponsEnabled": true,
+    "publicSdcCouponGwUrl": "https://public-mdc.trendyol.com/discovery-web-coupongw-service",
+    "publicMdcCouponGwUrl": "https://public-mdc.trendyol.com/discovery-web-coupongw-service",
+    "vasServiceEnabled": true,
+    "showCrossPromotions": true,
+    "showWalletRebate": false,
+    "showDigitalGoodsRebate": false,
+    "pudoBannerMoreInformationText": "Siparişindeki tüm ürünlerin Gel-Al Noktasından teslimata uygun olması gerekmektedir.",
+    "showFlashSales": true,
+    "flashSalesTimeSlots": [12, 15, 18, 21, 24],
+    "publicMdcSocialGwUrl": "https://public-mdc.trendyol.com/discovery-web-socialgw-service",
+    "publicSdcSocialGwUrl": "https://public-sdc.trendyol.com/discovery-web-socialgw-service",
+    "minInstallmentAmountEnabled": true,
+    "minInstallmentAmountMinPrice": 1000,
+    "minInstallmentAmountMinInstallment": 3,
+    "stickersEnabled": true,
+    "promotionImageEnabled": true,
+    "addToCollectionEnabled": true,
+    "productGroupSantralUrl": "https://public.trendyol.com/discovery-web-websfxproductgroups-santral",
+    "promotionImageSantralUrl": "https://public.trendyol.com/discovery-web-websfxpromotionproducts-santral",
+    "publicWebSfxProductRecommendationServiceUrl": "https://public-mdc.trendyol.com/discovery-web-websfxproductrecommendation-santral",
+    "publicSfxComponentReadSantralUrl": "https://public.trendyol.com/discovery-pdp-websfxcomponentread-santral",
+    "publicWebSfxCrossPromotionServiceUrl": "https://public.trendyol.com/discovery-pdp-websfxcrosspromotions-santral",
+    "publicMdcContractServiceUrl": "https://public-mdc.trendyol.com/discovery-web-websfxcontract-santral",
+    "thresholdDayForLongTermDelivery": 15,
+    "infoForLongTermDelivery": "Ürün tedarik / üretim süresinin ardından kargolanacaktır.",
+    "infoForLongTermDeliveryBiggerThanMonth": "Bu ürün, siparişinize istinaden üretilmeye başlanacak olup üretim süresinin ardından kargoya verilecektir.",
+    "priceBoxV2Enable": true,
+    "buyMorePayLessPromotionsText": "Çok Al, Az Öde!",
+    "buyMorePayLessPromotionsEnabled": true,
+    "corporateInvoiceEnabled": true,
+    "tomorrowShippingEnabled": true,
+    "featuredPriceTooltipEnabled": true,
+    "pdpVideoEnabled": true,
+    "mediaCenterSantralUrl": "https://public-sdc.trendyol.com/discovery-web-websfxmediacenter-santral",
+    "pdpReportReasons": "[ { \"id\": \"COPYRIGHT\", \"value\": \"Telif hakkı ihlalli içerik\" }, { \"id\": \"PERSONAL_INFORMATION\", \"value\": \"Kişisel bilgi/yönlendirme\" }, { \"id\": \"NSFW\", \"value\": \"+18 içerik\" }, { \"id\": \"FORBIDDEN_WORDS\", \"value\": \"Argo& yasaklı kelime\" }, { \"id\": \"POLITICAL_SPEECH\", \"value\": \"Politik/ayrımcı söylem\" }, { \"id\": \"THIRD_PARTY_MENTION\", \"value\": \"Üçüncü şahıs/kurum bahsi\"}, {\"id\": \"ABUSIVE_SPEECH\", \"value\": \"Kötüleyici söylem\" }, {\"id\": \"INACCURATE_INFORMATION\", \"value\": \"Hatalı bilgi\" }, {\"id\": \"TECHNICAL_ISSUE\", \"value\": \"Teknik sorun\"}, {\"id\": \"INAPPROPRIATE_CONTENT\", \"value\": \"İçerik-ürün uyumsuzluğu\" }]",
+    "navigationGwUrl": "https://public-mdc.trendyol.com/discovery-web-navigation-service",
+    "basketSuggestionGwUrl": "https://public-mdc.trendyol.com/discovery-web-websfxbasketsuggestion-santral",
+    "brandBasedCustomizationEnabled": true,
+    "customizedBrandIds": ["102989", "101470"],
+    "lastProductNumber": 3,
+    "locationBasedSalesEnabled": true,
+    "sellerBaseSantralUrl": "https://public.trendyol.com/discovery-web-websfxsellerbase-santral",
+    "basketRecoWidgetsByUxLayout": {
+      "Electronics - devices": {
+        "A": ["Vas", "Cross", "Similar", "Basket"],
+        "B": ["Vas", "Cross", "Similar", "Basket"]
+      },
+      "Electronics - longtail": {
+        "A": ["Vas", "Cross", "Similar", "Basket"],
+        "B": ["Vas", "Cross", "Similar", "Basket"]
+      },
+      "cosmetics": {
+        "A": ["Vas", "Cross", "Similar", "Basket"],
+        "B": ["Vas", "Cross", "Similar", "Basket"]
+      },
+      "Hard Furniture": {
+        "A": ["Vas", "Cross", "Similar", "Basket"],
+        "B": ["Vas", "Cross", "Similar", "Basket"]
+      },
+      "Mobilya": {
+        "A": ["Vas", "Cross", "Similar", "Basket"],
+        "B": ["Vas", "Cross", "Similar", "Basket"]
+      },
+      "General Merchandise": {
+        "A": ["Vas", "Cross", "Similar", "Basket"],
+        "B": ["MerchantBased", "Vas", "Cross", "Similar", "Basket"]
+      },
+      "FMCG": { "A": [], "B": ["MerchantBased"] },
+      "Fashion": { "A": [], "B": [] },
+      "Ev": { "A": [], "B": ["MerchantBased"] }
+    },
+    "collectionRecommendationServiceUrl": "https://public-mdc.trendyol.com/discovery-pdp-websfxcollectionrecommendation-santral",
+    "priceHistorySantralUrl": "https://public.trendyol.com/discovery-web-websfxpricehistory-santral",
+    "priceHistoryFeatureEnabled": true,
+    "hideInitialRatingValuesFromPdpEnabled": true,
+    "ignoredCorporateUXLayouts": ["Fashion"],
+    "corporateSalesUserSegmentId": "410750067",
+    "corporateSalesUserSegmentTag": "1",
+    "feedbackExposedSFXFragmentEnabled": false,
+    "slpRecoExposedSFXFragmentEnabled": false,
+    "relatedCategoriesExposedSFXFragmentEnabled": false,
+    "emergencyVasBoutiqueInformationText": "Ödeme ekranında kendi adresinizi seçebilirsiniz. Ürün seçtiğiniz adrese değil, afet bölgesine ulaştırılacaktır.",
+    "azSelectedCookie": false,
+    "azPromotionText": "Səbətdə tətbiq olunacaq!",
+    "azEligibleCookie": false,
+    "azDeliveryEnabled": true,
+    "trendyolMillaTopBannerUrl": "https://cdn.dsmcdn.com/web/production/milla-desktop-banner-for-core.png",
+    "trendyolMillaTopBannerEnabled": false,
+    "millaBannerEnabledBrandIds": [1093959, 1262112, 15508, 1966958, 40],
+    "availableMillaBannerMerchantIds": [968],
+    "trendyolMillaUrl": "https://www.trendyol-milla.com/",
+    "ipAddress": "78.188.114.88",
+    "token": "",
+    "checkoutVasSantralUrl": "https://public-sdc.trendyol.com/discovery-web-websfxcheckoutvas-santral",
+    "stockWarningMinLimit": 3,
+    "stockWarningMaxLimit": 10,
+    "scrollToSimilar": false,
+    "excludedVariantKeyIds": [1115, 1116],
+    "genericRecoSliderEnabled": false,
+    "merchantBasedRecoSliderEnabled": false,
+    "publicWebSfxAttributeRecommendationServiceUrl": "https://public.trendyol.com/discovery-web-websfxprebasketgenericreco-santral",
+    "publicWebSfxBasketRecoServiceUrl": "https://public.trendyol.com/discovery-web-websfxprebasketmerchantbasedreco-santral",
+    "isCorporateUser": false,
+    "isAzNewFlowEnabled": true,
+    "inventoryCenterSantralUrl": "https://public-sdc.trendyol.com/discovery-web-websfxinventorycenter-santral",
+    "azPriceTooltipText": "Məhsul dəyərinin manat qarşılığı TCMB-dən qəbul edilən günlük dəyərlərə görə hesablanır və məlumat məqsədli olaraq təqdim edilir. Valyuta məzənnəsində gün içində baş verən dəyişikliklər dərhal ekranlarda əks olunmaya bilər.",
+    "trendyolMillaBannerUrl": "https://cdn.dsmcdn.com/web/production/milla-desktop-banner-v2.svg",
+    "isTrendyolMilla": false,
+    "isMillaFirstOrder": false,
+    "productRecommendationPage": 0,
+    "productRecommendationSize": 8
+  }
+}
