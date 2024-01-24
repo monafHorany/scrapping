@@ -1,35 +1,6 @@
 const axios = require("axios");
 var cheerio = require("cheerio");
-const url = "https://www.trendyol.com/erkek+ceket";
-const baseURL = "https://www.trendyol.com";
-
-
-// // Imports the Google Cloud client library
-// const { Translate } = require('@google-cloud/translate').v2;
-// const CREDENTIALS = require('./spry-starlight-273319-373651bf69f3.json');
-
-// // Creates a client
-// const translate = new Translate({
-//   credentials: CREDENTIALS,
-//   projectId: CREDENTIALS.project_id
-// });
-// /**
-//  * 
-
-//  * TODO(developer): Uncomment the following lines before running the sample.
-//  */
-// // const text = 'Hello, world!';
-// // const target = 'tr';
-
-// async function translateText(text, target) {
-//   // Translates the text into the target language. "text" can be a string for
-//   // translating a single piece of text, or an array of strings for translating
-//   // multiple texts.
-//   return translations = await translate.translate(text, target);
-//   // console.log(translations[0]);
-// }
-
-// // translateText();
+const baseURL = "https://www.trendyol-milla.com";
 
 if (typeof cheerio != "function") cheerio = require("cheerio").default;
 async function getProduct(prodURL, link) {
@@ -43,27 +14,12 @@ async function getProduct(prodURL, link) {
     const productsDetails = [];
     const html = response.data;
     const $ = cheerio.load(html);
-    const product_source = "Trendyol";
+    const product_source = "T-milla";
     const group_url = link;
     const colors = [];
     const sizes = [];
     const images = [];
     const brand = cheerio(".pr-new-br", html).contents().first().text();
-
-    // const resName = await fetch("https://libretranslate.com/translate", {
-    //   method: "POST",
-    //   body: JSON.stringify({
-    //     q: cheerio(".pr-new-br span", html).text(),
-    //     source: "tr",
-    //     target: "ar",
-    //     format: "text",
-    //     api_key: "1eb92343-68c6-47e4-9f8d-2ae520d33275"
-    //   }),
-    //   headers: { "Content-Type": "application/json" }
-    // });
-    // const { translatedText: name } = await resName.json();
-    const transName = await translateText(cheerio(".pr-new-br span", html).text(), 'ar');
-    const name = transName[0];
     const strorjprice = cheerio(".prc-org", html).first().text();
     const strprice = cheerio(".prc-dsc", html).first().text();
     let price = strprice.split('.').join("");
@@ -72,53 +28,41 @@ async function getProduct(prodURL, link) {
     if (orjprice === '') {
       orjprice = price
     }
-    let description = '';
     const Variants = $('script:contains("allVariants")').html();
+    const NameTag = JSON.parse(Variants.split("window.__PRODUCT_DETAIL_APP_INITIAL_STATE__=")[1].split("};")[0] + "}")
     const VariantsTag = Variants.match(/"allVariants":\[(.*?)\]/i)[1];
     const VariantsTagJson = "[" + VariantsTag + "]";
     const VariantsTagParsed = JSON.parse(VariantsTagJson);
     const otherVariantsTag = Variants.match(/"otherMerchantVariants":\[(.*?)\]/i)[1];
     const otherVariantsTagJson = "[" + otherVariantsTag + "]";
     const otherVariantsTagParsed = JSON.parse(otherVariantsTagJson);
+    let name = NameTag.product.name;
 
-    const Description = JSON.parse(Variants.split("\"faq\":[],\"description\":")[1].split(",\"productGroupId\"")[0]);
-    if (Description.length > 0) {
-      Description.forEach(element => {
-        if (element.priority === 0) {
-          description += element.text
-        }
-      });
-      const tranDesc = await translateText(description, 'ar');
-      description = tranDesc[0]
-    }
-    else {
-      description = '';
-    }
     const pricesArr = VariantsTagParsed.map(e => {
       if (e.inStock) {
         if (typeof e.price !== "string")
           return e.price
       }
     }).filter((n) => n)
-    // const resDesc = await fetch("https://libretranslate.com/translate", {
-    //   method: "POST",
-    //   body: JSON.stringify({
-    //     q: description,
-    //     source: "tr",
-    //     target: "ar",
-    //     format: "html",
-    //     api_key: "1eb92343-68c6-47e4-9f8d-2ae520d33275"
-    //   }),
-    //   headers: { "Content-Type": "application/json" }
-    // });
 
-    // const { translatedText } = await resDesc.json()
-    // description = translatedText
+    let description = [];
+    let jsonData;
+    const scriptTag = $('script:contains("window.__PRODUCT_DETAIL_APP_INITIAL_STATE__")').html();
+    if (scriptTag) {
+      jsonData = JSON.parse(scriptTag.split("window.__PRODUCT_DETAIL_APP_INITIAL_STATE__=")[1].split(";window.TYPageName")[0])
+      for (let i = 0; i < jsonData.product.attributes.length; i++) {
+        const element = jsonData.product.attributes[i];
+        description.push(
+          { key: element.key.name, value: element.value.name }
+        )
+      }
+    }
 
     if (pricesArr.length > 0) {
       orjprice = (Math.max(...pricesArr) + " TL").includes(".") ? (Math.max(...pricesArr) + " TL").replace(".", ",") : (Math.max(...pricesArr) + " TL")
       price = (Math.max(...pricesArr) + " TL").includes(".") ? (Math.max(...pricesArr) + " TL").replace(".", ",") : (Math.max(...pricesArr) + " TL")
     }
+
 
     $(VariantsTagParsed).each(function (i, elm) {
       if (elm["inStock"] == true) {
@@ -140,20 +84,14 @@ async function getProduct(prodURL, link) {
     const imageUrl_extract = imageUrls.toString().match(/\[(.*?)\]/g);
     const imageUrl_array = JSON.parse(imageUrl_extract);
     $(imageUrl_array).each(function (key, img) {
-      images.push("https://cdn.dsmcdn.com/" + img);
+      images.push("https://cdn.dsmcdn.com" + img);
     });
 
-    const productsAttrebuites = await axios.get(
-      "https://public.trendyol.com/discovery-web-productgw-service/api/productGroup/" +
-      value
-    );
-    if (productsAttrebuites.data.result.slicingAttributes[0]) {
-      color = productsAttrebuites.data.result.slicingAttributes[0].attributes;
-      $(color).each(function (i, elm) {
-        colors.push(elm["name"]);
-      });
-    } else {
-      colors.push("No Colors Available");
+    if (name.includes(NameTag.product.productCode)) {
+      name = name.replace(NameTag.product.productCode, "");
+    }
+    if (description !== null || description !== '') {
+      description = JSON.stringify(description)
     }
     productsDetails.push({
       name,

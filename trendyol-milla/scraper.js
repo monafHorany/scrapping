@@ -12,7 +12,7 @@ async function getProduct(prodURL, link) {
     const productsDetails = [];
     const html = response.data;
     const $ = cheerio.load(html);
-    const product_source = "Trendyol-milla";
+    const product_source = "T-milla";
     const group_url = link;
     const colors = [];
     const sizes = [];
