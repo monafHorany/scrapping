@@ -33,7 +33,7 @@ async function getProduct(prodURL, link) {
       .text()
       .trim();
     let price = cheerio(
-      "div.row.xl > div.col-xs-12.col-sm-5.col-md-5.product__detail-info > div > div.product__listing--basket-price > p > span",
+      "div.product__primary > div > div > div.row.xl > div.col-xs-12.col-sm-5.col-md-5.product__detail-info > div > div.product__facet--payment.cf > div.product__payment--price > ins",
       html
     )
       .first()

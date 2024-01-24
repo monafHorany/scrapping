@@ -84,7 +84,7 @@ async function getProduct(prodURL, link) {
       .trim();
     $(".SmallImages .AltImgCapSmallImg").map((index, element) => {
       images.push(
-        $(element).find("img").attr("src").replace("/thumb", "/buyuk")
+        $(element).find("img").data("original").replace("/thumb", "/buyuk")
       );
     });
     imageUrl = images[0];

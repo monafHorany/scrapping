@@ -67,28 +67,36 @@ async function getProduct(prodURL, link) {
       "https://public.trendyol.com/discovery-web-productgw-service/api/productGroup/" +
       value
     );
-    let description = "";
-
+    let description = [];
+    let jsonData;
     const scriptTag = $('script:contains("window.__PRODUCT_DETAIL_APP_INITIAL_STATE__")').html();
-    // console.log(scriptTag.split("window.__PRODUCT_DETAIL_APP_INITIAL_STATE__=")[1].split("};window.TYPageName")[0])
-    fs.writeFile('data.js', scriptTag.split("window.__PRODUCT_DETAIL_APP_INITIAL_STATE__=")[1].split(";window.TYPageName")[0], (err) => {
-      if (err) {
-        console.error('Error writing to file:', err);
-      } else {
-        console.log('Data has been written to the file successfully.');
+    if (scriptTag) {
+      jsonData = JSON.parse(scriptTag.split("window.__PRODUCT_DETAIL_APP_INITIAL_STATE__=")[1].split(";window.TYPageName")[0])
+      for (let i = 0; i < jsonData.product.attributes.length; i++) {
+        const element = jsonData.product.attributes[i];
+        description.push(
+          { key: element.key.name, value: element.value.name }
+        )
       }
-    });
-    try {
-      const { data } = await axios.get(`https://public.trendyol.com/discovery-pdp-websfxcomponentread-santral/${script.sku}`);
-      const conditions = ["Modelin", "Manken", "kilo", "boy", "Kg", "Model", "Taban", "Materiel", "Materyal", "Kilo", "Beden", "Renk", "renk", "beden", "manken", "model", "unusex"]
-      if (data) {
-        if (data.result.descriptions.length > 0 && conditions.some(el => data.result.descriptions[data.result.descriptions.length - 1].text.includes(el))) {
-          description = data.result.descriptions[data.result.descriptions.length - 1].text
-        }
-      }
-    } catch (error) {
-      console.log(error)
     }
+    // fs.writeFile('data.js', scriptTag.split("window.__PRODUCT_DETAIL_APP_INITIAL_STATE__=")[1].split(";window.TYPageName")[0], (err) => {
+    //   if (err) {
+    //     console.error('Error writing to file:', err);
+    //   } else {
+    //     console.log('Data has been written to the file successfully.');
+    //   }
+    // });
+    // try {
+    //   const { data } = await axios.get(`https://public.trendyol.com/discovery-pdp-websfxcomponentread-santral/${script.sku}`);
+    //   const conditions = ["Modelin", "Manken", "kilo", "boy", "Kg", "Model", "Taban", "Materiel", "Materyal", "Kilo", "Beden", "Renk", "renk", "beden", "manken", "model", "unusex"]
+    //   if (data) {
+    //     if (data.result.descriptions.length > 0 && conditions.some(el => data.result.descriptions[data.result.descriptions.length - 1].text.includes(el))) {
+    //       description = data.result.descriptions[data.result.descriptions.length - 1].text
+    //     }
+    //   }
+    // } catch (error) {
+    //   console.log(error)
+    // }
 
     if (productsAttrebuites.data.result.slicingAttributes[0]) {
       color = productsAttrebuites.data.result.slicingAttributes[0].attributes;
@@ -97,6 +105,9 @@ async function getProduct(prodURL, link) {
       });
     } else {
       colors.push("No Colors Available");
+    }
+    if (description !== null || description !== '') {
+      description = JSON.stringify(description)
     }
     productsDetails.push({
       name,
@@ -141,7 +152,7 @@ async function getProductsData(link, urls = []) {
 
       urls.push(productUrl);
     });
-    return await getProduct(urls[0], link)
+    // return await getProduct(urls[0], link)
     return Promise.all(urls.map((url) => getProduct(url, link)));
   } catch (error) {
     console.error(error);

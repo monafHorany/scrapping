@@ -24,7 +24,6 @@ async function getProduct(prodURL, link) {
     if (orjprice === '') {
       orjprice = price
     }
-    let description = '';
     const Variants = $('script:contains("allVariants")').html();
     const NameTag = JSON.parse(Variants.split("window.__PRODUCT_DETAIL_APP_INITIAL_STATE__=")[1].split("};")[0] + "}")
     const VariantsTag = Variants.match(/"allVariants":\[(.*?)\]/i)[1];
@@ -36,25 +35,26 @@ async function getProduct(prodURL, link) {
     const otherVariantsTagParsed = JSON.parse(otherVariantsTagJson);
 
 
-    // const Description = JSON.parse(Variants.split("\"faq\":[],\"description\":")[1].split(",\"productGroupId\"")[0]);
     let name = NameTag.product.name;
-    // if (Description.length > 0) {
-    //   Description.forEach(element => {
-    //     if (element.priority === 0) {
-    //       description += element.text
-    //     }
-    //   });
-    // }
-    // else {
-    //   description = '';
-    // }
+
     const pricesArr = VariantsTagParsed.map(e => {
       if (e.inStock) {
         if (typeof e.price !== "string")
           return e.price
       }
     }).filter((n) => n)
-
+    let description = [];
+    let jsonData;
+    const scriptTag = $('script:contains("window.__PRODUCT_DETAIL_APP_INITIAL_STATE__")').html();
+    if (scriptTag) {
+      jsonData = JSON.parse(scriptTag.split("window.__PRODUCT_DETAIL_APP_INITIAL_STATE__=")[1].split(";window.TYPageName")[0])
+      for (let i = 0; i < jsonData.product.attributes.length; i++) {
+        const element = jsonData.product.attributes[i];
+        description.push(
+          { key: element.key.name, value: element.value.name }
+        )
+      }
+    }
 
 
     if (pricesArr.length > 0) {
@@ -76,20 +76,6 @@ async function getProduct(prodURL, link) {
         }
       });
     }
-    // const Description = JSON.parse(Variants.split("\"faq\":[],\"description\":")[1].split(",\"productGroupId\"")[0]);
-    // if (Description.length > 0) {
-    //   Description.forEach(element => {
-    //     if (element.priority === 0) {
-    //       description += element.text
-    //     }
-    //   });
-    //   // const tranDesc = await translateText(description, 'ar');
-    //   description = tranDesc[0]
-    // }
-    // else {
-    //   description = '';
-    // }
-
     const propiteam = cheerio(".prop-item", html).text();
     const PID = $('script:contains("productGroup")').html();
     var value = PID.match(/"productGroupId":(\d+)/i)[1];
@@ -100,7 +86,9 @@ async function getProduct(prodURL, link) {
     if (name.includes(NameTag.product.productCode)) {
       name = name.replace(NameTag.product.productCode, "");
     }
-
+    if (description !== null || description !== '') {
+      description = JSON.stringify(description)
+    }
     productsDetails.push({
       name,
       brand,
