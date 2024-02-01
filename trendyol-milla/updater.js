@@ -52,9 +52,7 @@ async function getProduct(prodURL, link) {
       jsonData = JSON.parse(scriptTag.split("window.__PRODUCT_DETAIL_APP_INITIAL_STATE__=")[1].split(";window.TYPageName")[0])
       for (let i = 0; i < jsonData.product.attributes.length; i++) {
         const element = jsonData.product.attributes[i];
-        description.push(
-          { key: element.key.name, value: element.value.name }
-        )
+        description.push({ [element.key.name]: element.value.name })
       }
     }
 
